@@ -10,19 +10,18 @@
     },
     "items": [
         {
-            "id": "https://www.thebstar.com/blogs/new-post-test.html",
-            "url": "https://www.thebstar.com/blogs/new-post-test.html",
-            "title": "New post test",
-            "summary": "Hello this is a new post test. Let’s see where it shows up.",
-            "content_html": "<p>Hello this is a new post test. Let’s see where it shows up. </p>",
-            "image": "https://www.thebstar.com/blogs/media/posts/1/IMG_0041.JPG",
+            "id": "https://www.thebstar.com/blogs/life-is-good.html",
+            "url": "https://www.thebstar.com/blogs/life-is-good.html",
+            "title": "Life is Good",
+            "summary": "This is September 15th 2024, IST 2:05am. I am at Mumbai airport. Waiting for my fight to home. Boarding will start at 2.30. So I have like 20 minutes to write it. So, I will make it short. Let's just talk about why am I&hellip;",
+            "content_html": "<p>This is September 15th 2024, IST 2:05am. I am at Mumbai airport. Waiting for my fight to home. Boarding will start at 2.30. So I have like 20 minutes to write it. So, I will make it short. Let's just talk about why am I writting this. </p>\n<p>Life has been good to me. Things had started to fall into right places. Mentally, Physically, Financially. Whenever I didn't feel like it, I tried and tried to put them in the right places. I tried to make the life good. And now, since it has been good, averaging really good for sometime, I feel this is the right time to unleash the bull run. Take the average higher. This is important to do when I am in control. We never know when life flips it and starts a bear run. </p>\n<p>I am brining this blog back from ashes for the bull run, for the higher average. It is not only an opportunity but a responsibility now to make this run. This blog will act as the brain dump yard, accountability partner no one asked.</p>\n<p> </p>\n<p>Cheers. </p>",
             "author": {
                 "name": "Bikram"
             },
             "tags": [
             ],
-            "date_published": "2024-09-15T01:16:10+05:30",
-            "date_modified": "2024-09-15T01:16:10+05:30"
+            "date_published": "2024-09-15T02:14:28+05:30",
+            "date_modified": "2024-09-15T02:14:28+05:30"
         }
     ]
 }
