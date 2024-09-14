@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.thebstar.com/thebstar_publii/sitemap.xml
