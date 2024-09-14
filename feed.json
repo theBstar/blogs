@@ -9,5 +9,20 @@
         "name": "Bikram"
     },
     "items": [
+        {
+            "id": "https://www.thebstar.com/thebstar_publii/new-post-test.html",
+            "url": "https://www.thebstar.com/thebstar_publii/new-post-test.html",
+            "title": "New post test",
+            "summary": "Hello this is a new post test. Let’s see where it shows up.",
+            "content_html": "<p>Hello this is a new post test. Let’s see where it shows up. </p>",
+            "image": "https://www.thebstar.com/thebstar_publii/media/posts/1/IMG_0041.JPG",
+            "author": {
+                "name": "Bikram"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-15T01:16:10+05:30",
+            "date_modified": "2024-09-15T01:16:10+05:30"
+        }
     ]
 }
