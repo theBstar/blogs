@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Thebstar</title>
-    <link href="https://www.thebstar.com/thebstar_publii/feed.xml" rel="self" />
-    <link href="https://www.thebstar.com/thebstar_publii" />
+    <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
+    <link href="https://www.thebstar.com/blogs" />
     <updated>2024-09-15T01:16:10+05:30</updated>
     <author>
         <name>Bikram</name>
     </author>
-    <id>https://www.thebstar.com/thebstar_publii</id>
+    <id>https://www.thebstar.com/blogs</id>
 
     <entry>
         <title>New post test</title>
         <author>
             <name>Bikram</name>
         </author>
-        <link href="https://www.thebstar.com/thebstar_publii/new-post-test.html"/>
-        <id>https://www.thebstar.com/thebstar_publii/new-post-test.html</id>
-        <media:content url="https://www.thebstar.com/thebstar_publii/media/posts/1/IMG_0041.JPG" medium="image" />
+        <link href="https://www.thebstar.com/blogs/new-post-test.html"/>
+        <id>https://www.thebstar.com/blogs/new-post-test.html</id>
+        <media:content url="https://www.thebstar.com/blogs/media/posts/1/IMG_0041.JPG" medium="image" />
 
         <updated>2024-09-15T01:16:10+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.thebstar.com/thebstar_publii/media/posts/1/IMG_0041.JPG" alt="" />
+                        <img src="https://www.thebstar.com/blogs/media/posts/1/IMG_0041.JPG" alt="" />
                     Hello this is a new post test. Let’s see where it shows up.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.thebstar.com/thebstar_publii/media/posts/1/IMG_0041.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.thebstar.com/blogs/media/posts/1/IMG_0041.JPG" class="type:primaryImage" alt="" /></p>
                 <p>Hello this is a new post test. Let’s see where it shows up. </p>
             ]]>
         </content>

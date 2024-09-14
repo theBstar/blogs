@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Thebstar",
     "description": "",
-    "home_page_url": "https://www.thebstar.com/thebstar_publii",
-    "feed_url": "https://www.thebstar.com/thebstar_publii/feed.json",
+    "home_page_url": "https://www.thebstar.com/blogs",
+    "feed_url": "https://www.thebstar.com/blogs/feed.json",
     "user_comment": "",
     "author": {
         "name": "Bikram"
     },
     "items": [
         {
-            "id": "https://www.thebstar.com/thebstar_publii/new-post-test.html",
-            "url": "https://www.thebstar.com/thebstar_publii/new-post-test.html",
+            "id": "https://www.thebstar.com/blogs/new-post-test.html",
+            "url": "https://www.thebstar.com/blogs/new-post-test.html",
             "title": "New post test",
             "summary": "Hello this is a new post test. Let’s see where it shows up.",
             "content_html": "<p>Hello this is a new post test. Let’s see where it shows up. </p>",
-            "image": "https://www.thebstar.com/thebstar_publii/media/posts/1/IMG_0041.JPG",
+            "image": "https://www.thebstar.com/blogs/media/posts/1/IMG_0041.JPG",
             "author": {
                 "name": "Bikram"
             },
