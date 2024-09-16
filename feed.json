@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.thebstar.com/blogs/self-note-present-is-real.html",
+            "url": "https://www.thebstar.com/blogs/self-note-present-is-real.html",
+            "title": "Self Note - Present is real!",
+            "summary": "Past is gone. Future is yet to come. Present is what you live. It is easy to carry burden of past and bias our decisions - Morgan Housel, The Psychology of Money. Similarly it is easier to look too much into future and ruin our&hellip;",
+            "content_html": "<p>Past is gone. Future is yet to come. Present is what you live. It is easy to carry burden of past and bias our decisions - Morgan Housel, The Psychology of Money. Similarly it is easier to look too much into future and ruin our present. </p>\n<p>Present, now is the <span style=\"text-decoration: line-through;\">most valuable</span> resource to get to future. It is the only resource. It is the only oil. Important to realise, every moment you spend thinking, or doing something is burning this most important fuel. Is future that important to be considered now? Do I need to go that deeper into future? Is it worth my present?</p>\n<p>But life isn't this linear, nor everything has equal weight. Some things even in distant future have greater importance in life. Some experiences from past carry bigger lessons than others. So, we have to aware of the weights. And if it comes down to optimising for past, present or future. It should be always between present and future. <strong>And importance in future should have higher relative weights as closer they are in the timeline</strong>. This is importnat because, time is moving in one direction, so is life, and the best part of the life. But don't forget to enjoy the current moment. I will expand on it. Let it be meta for now. Let the entirety of this be meta for now.</p>\n<p>I was coming back from Mumbai. Bus journey took 8 hours instead of usual 5. I had planned take an hour long nap in the afternoon. But I reached at 4pm. I had a play rehearsal scheduled at 6pm. I had almost slotted a nap after reaching home. So, I was feeling sleepy. But I couldn't sleep for and hour, wake up do the preparation and go to the play rehearsal. This wasn't possible. So, I decided to put some work. And later wrote this down. Went to rehearsal at 6. </p>\n<p>I am coming back to this and publishing it. With the updated title. Yes, Present is real. I should be optimising it, without blocking myself on past excuses, experiences. And I start to embrace more chaos in life, being able to open myself to frequent changes in plan, schedule, optimising for present is the best thing I can do for better use of the fuel. </p>",
+            "image": "https://www.thebstar.com/blogs/media/posts/4/download.jpeg",
+            "author": {
+                "name": "Bikram"
+            },
+            "tags": [
+                   "fokat"
+            ],
+            "date_published": "2024-09-17T00:12:46+05:30",
+            "date_modified": "2024-09-17T00:14:20+05:30"
+        },
+        {
             "id": "https://www.thebstar.com/blogs/life-is-good.html",
             "url": "https://www.thebstar.com/blogs/life-is-good.html",
             "title": "Life is Good",
@@ -19,9 +35,11 @@
                 "name": "Bikram"
             },
             "tags": [
+                   "fokat",
+                   "daily"
             ],
             "date_published": "2024-09-15T02:14:28+05:30",
-            "date_modified": "2024-09-15T02:14:28+05:30"
+            "date_modified": "2024-09-15T23:20:55+05:30"
         }
     ]
 }
