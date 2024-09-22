@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.thebstar.com/blogs/personal-website-is-live.html",
+            "url": "https://www.thebstar.com/blogs/personal-website-is-live.html",
+            "title": "Personal website is live 🚀",
+            "summary": "Okay, it was live for sometime. My website and blogs were in one place. To write a blog I had to open my terminal and a code editor. This was a huge friction. And slowly as I mentioned earlier, Whatsapp notes took over. I started&hellip;",
+            "content_html": "<p>Okay, it was live for sometime. My website and blogs were in one place. To write a blog I had to open my terminal and a code editor. This was a huge friction. And slowly as I mentioned earlier, Whatsapp notes took over. I started taking notes on Apple notes, Whatsapp self-DM, and some on my iPad.</p>\n<p>Updating the website and blog was always in my mind. So much that, I started building a blog engine. Visual blog builder. It works, It can create basic page with a visual rich text editor. <a href=\"https://github.com/theBstar/blogder\" target=\"_blank\" rel=\"noopener noreferrer\">Still a prototype - find it on github here</a>. As, I started using it I found it needs a lot of features. Initially plan was to just build the features. But, I have limited time. And I wanted to build a blog engine to just start blogging again. I wanted to build it, such that I didn't have to open my terminal and IDE to dump something. Fortunately, <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">I found Publii, a public open-source static CMS</a>. It does exactly this. I can write without touching terminal, IDE, without thinking deployment, and it connects to github pages. YaY 🥳 !</p>\n<p>I am back at writing online. It is fun again. And now, I had to update the homepage. <a href=\"https://v0.dev/\" target=\"_blank\" rel=\"noopener noreferrer\">V0.dev</a> has been one of the best things on frontend in recent times. I coded up the initial page with just a few touches. And <a href=\"https://www.thebstar.com/\" target=\"_blank\" rel=\"noopener noreferrer\">the updated website is also live, same old url thebstar.com.</a> 🚀</p>\n<p>I have picked up a really good pace in the last 2 weeks. This blog is just the tip of it, just a sneak peek into my builder energy picking up. Will be sharing more soon!</p>\n<p>Cool, lets do some samll talks,  I went shirt-less twice in a crowed in last week. I was attending a funeral of a friend's dad, last rituals were on the bank of a river. And we took a bath afterwards. Went to singri to do nets practice on Saturday (21st September 2024), went shirt-less due to heat and sweat. I have some fotage from the session, and I look good, I hadn't seen some of those muscles (I still have to look hard though 😅). Motivation to hit the gym. 💪 I have missed the gym for last 3 weeks completely. Had to do some travel. Will tell the gym and travel story later. This is already long and it is almost 1am now. </p>\n<p>Take care!</p>\n<p> </p>\n<p> </p>",
+            "image": "https://www.thebstar.com/blogs/media/posts/7/Screenshot-2024-09-23-at-12.39.41-AM.png",
+            "author": {
+                "name": "Bikram"
+            },
+            "tags": [
+                   "life"
+            ],
+            "date_published": "2024-09-23T00:39:12+05:30",
+            "date_modified": "2024-09-23T00:40:34+05:30"
+        },
+        {
             "id": "https://www.thebstar.com/blogs/self-note-present-is-real.html",
             "url": "https://www.thebstar.com/blogs/self-note-present-is-real.html",
             "title": "Self Note - Present is real!",
@@ -35,11 +51,11 @@
                 "name": "Bikram"
             },
             "tags": [
-                   "fokat",
-                   "daily"
+                   "life",
+                   "fokat"
             ],
             "date_published": "2024-09-15T02:14:28+05:30",
-            "date_modified": "2024-09-15T23:20:55+05:30"
+            "date_modified": "2024-09-23T00:41:38+05:30"
         }
     ]
 }
