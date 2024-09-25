@@ -3,7 +3,7 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2024-09-26T01:14:31+05:30</updated>
+    <updated>2024-09-26T01:21:35+05:30</updated>
     <author>
         <name>Bikram</name>
     </author>
@@ -162,17 +162,20 @@
         </author>
         <link href="https://www.thebstar.com/blogs/life-is-good.html"/>
         <id>https://www.thebstar.com/blogs/life-is-good.html</id>
+        <media:content url="https://www.thebstar.com/blogs/media/posts/3/IMG_0041.jpeg" medium="image" />
             <category term="life"/>
             <category term="fokat"/>
 
         <updated>2024-09-15T02:14:28+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.thebstar.com/blogs/media/posts/3/IMG_0041.jpeg" alt="Life is good" />
                     This is September 15th 2024, IST 2:05am. I am at Mumbai airport. Waiting for my fight to home. Boarding will start at 2.30. So I have like 20 minutes to write it. So, I will make it short. Let's just talk about why am I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.thebstar.com/blogs/media/posts/3/IMG_0041.jpeg" class="type:primaryImage" alt="Life is good" /></p>
                 <p>This is September 15th 2024, IST 2:05am. I am at Mumbai airport. Waiting for my fight to home. Boarding will start at 2.30. So I have like 20 minutes to write it. So, I will make it short. Let's just talk about why am I writting this. </p>
 <p>Life has been good to me. Things had started to fall into right places. Mentally, Physically, Financially. Whenever I didn't feel like it, I tried and tried to put them in the right places. I tried to make the life good. And now, since it has been good, averaging really good for sometime, I feel this is the right time to unleash the bull run. Take the average higher. This is important to do when I am in control. We never know when life flips it and starts a bear run. </p>
 <p>I am brining this blog back from ashes for the bull run, for the higher average. It is not only an opportunity but a responsibility now to make this run. This blog will act as the brain dump yard, accountability partner no one asked.</p>
