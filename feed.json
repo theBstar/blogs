@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://www.thebstar.com/blogs/the-third-person-view.html",
+            "url": "https://www.thebstar.com/blogs/the-third-person-view.html",
+            "title": "The third person view",
+            "summary": "It is funny how often I turn on my third-person view camera. Whenever I sit to do retro, reflect on emotions, or anything in life, even when I set the ideal stage for myself in the future, I look at myself from this view. Recently,&hellip;",
+            "content_html": "<p>It is funny how often I turn on my <a href=\"https://simple.wikipedia.org/wiki/Third-person_view\">third-person view camera</a>. Whenever I sit to do retro, reflect on emotions, or anything in life, even when I set the ideal stage for myself in the future, I look at myself from this view. </p>\n<p>Recently, I started realizing this. A lot of the time the person in the center stage is me but detached. Has its own identity. I think I understand him the most. This has been helping me to learn more about myself. How I act, how I feel, how I react. And deduce my thoughts, actions, and reactions to points in time in life. Sometimes these points are ranges, sometimes they are absolute. They are most helpful when absolute. If everything were absolute, then life would have been less fun, and less diverse.</p>\n<p>This is a release post for something else I have been brewing. `Brewing` reminded me I just installed `homebrew` on my new Mac. Yes, I got a Mac for myself a few days ago.</p>\n<p>Dussehra is on in Assam. I will visit the pandals now. 🥳</p>",
+            "image": "https://www.thebstar.com/blogs/media/posts/14/Screenshot-2024-10-09-at-12.26.02-PM.png",
+            "author": {
+                "name": "Bikram Sutar"
+            },
+            "tags": [
+                   "fokat",
+                   "daily"
+            ],
+            "date_published": "2024-10-09T12:29:45+05:30",
+            "date_modified": "2024-10-09T12:29:45+05:30"
+        },
+        {
             "id": "https://www.thebstar.com/blogs/honesty-leads-you-to-god.html",
             "url": "https://www.thebstar.com/blogs/honesty-leads-you-to-god.html",
             "title": "Honesty leads you to God",
