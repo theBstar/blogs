@@ -3,7 +3,7 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2024-10-12T08:26:59+05:30</updated>
+    <updated>2024-10-12T08:31:29+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
@@ -25,13 +25,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/15/Screenshot-2024-10-12-at-8.25.15-AM.png" alt="Coin flip representing risk &amp; reward" />
-                    Yes, don't read. This is my rough note on trying to model a formula for decision-making. There are two options, A and B. You are very much gravitated towards A. I will give this a score of 80. 80 because it is close to certainty&hellip;
+                    My rough notes on trying to model a formula for deciding between two choices, A and B. There are two options, A and B. You are very much gravitated towards A. I will give this a score of 80. 80 because it is close to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.thebstar.com/blogs/media/posts/15/Screenshot-2024-10-12-at-8.25.15-AM.png" class="type:primaryImage" alt="Coin flip representing risk &amp; reward" /></p>
-                <p>Yes, don't read. This is my rough note on trying to model a formula for decision-making. </p>
+                <p>My rough notes on trying to model a formula for deciding between two choices, A and B.</p>
 <p>There are two options, A and B. You are very much gravitated towards A. I will give this a score of 80. 80 because it is close to certainty but not yet certain. Only things beyond 90 inches to certainty. 50/50 is when you aren't sure. 60/40 is still in the uncertainty zone, IMO. Even the 70, on the other hand, is clarity and conviction towards A. If I follow <a href="https://www.seedtoscale.com/blog/kunal-shahs-delta-4-theory-of-successful-startups" target="_blank" rel="noopener noreferrer">Delta 4 framework by Kunal Shah</a>, Here the Delta is 4. It 70/30 clarity rule is even practiced by Amazon in decisions making if I recall correctly. But for critical decisions, where speed still matters, 80/20 is a one. It provides a balance of clarity and certainty. 70/30 for more speed. </p>
 <p>The thought came to me while driving yesterday morning. For A/B with initial weights as x/y and it to be x'/y'. A simple formula can work. We scale B to get the new ratios. k, a multiple of B to achieve the x'/y' </p>
 <p><span class="base"><span class="mord mathnormal">k </span><span class="mrel">= </span></span><span class="base"><span class="mord"><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist"><span class="mord mathnormal"><span class="mrel">(</span>x<span class="mbin">⋅</span>y<span class="msupsub"><span class="vlist-t"><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">′) </span></span></span></span></span></span><span class="vlist-s">​</span></span></span></span></span></span>/ <span class="base"><span class="mrel">(</span></span><span class="base"><span class="mord"><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">′</span></span></span></span><span class="mbin">⋅</span><span class="mord mathnormal">y) </span></span></span></span></span></span></span></p>
