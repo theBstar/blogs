@@ -3,12 +3,46 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2024-10-09T12:29:45+05:30</updated>
+    <updated>2024-10-12T08:26:59+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
     <id>https://www.thebstar.com/blogs</id>
 
+    <entry>
+        <title>80:20 - Time to negotiate</title>
+        <author>
+            <name>Bikram Sutar</name>
+        </author>
+        <link href="https://www.thebstar.com/blogs/8020-time-to-negotiate.html"/>
+        <id>https://www.thebstar.com/blogs/8020-time-to-negotiate.html</id>
+        <media:content url="https://www.thebstar.com/blogs/media/posts/15/Screenshot-2024-10-12-at-8.25.15-AM.png" medium="image" />
+            <category term="startups"/>
+            <category term="life"/>
+            <category term="fokat"/>
+
+        <updated>2024-10-12T08:26:59+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thebstar.com/blogs/media/posts/15/Screenshot-2024-10-12-at-8.25.15-AM.png" alt="Coin flip representing risk &amp; reward" />
+                    Yes, don't read. This is my rough note on trying to model a formula for decision-making. There are two options, A and B. You are very much gravitated towards A. I will give this a score of 80. 80 because it is close to certainty&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.thebstar.com/blogs/media/posts/15/Screenshot-2024-10-12-at-8.25.15-AM.png" class="type:primaryImage" alt="Coin flip representing risk &amp; reward" /></p>
+                <p>Yes, don't read. This is my rough note on trying to model a formula for decision-making. </p>
+<p>There are two options, A and B. You are very much gravitated towards A. I will give this a score of 80. 80 because it is close to certainty but not yet certain. Only things beyond 90 inches to certainty. 50/50 is when you aren't sure. 60/40 is still in the uncertainty zone, IMO. Even the 70, on the other hand, is clarity and conviction towards A. If I follow <a href="https://www.seedtoscale.com/blog/kunal-shahs-delta-4-theory-of-successful-startups" target="_blank" rel="noopener noreferrer">Delta 4 framework by Kunal Shah</a>, Here the Delta is 4. It 70/30 clarity rule is even practiced by Amazon in decisions making if I recall correctly. But for critical decisions, where speed still matters, 80/20 is a one. It provides a balance of clarity and certainty. 70/30 for more speed. </p>
+<p>The thought came to me while driving yesterday morning. For A/B with initial weights as x/y and it to be x'/y'. A simple formula can work. We scale B to get the new ratios. k, a multiple of B to achieve the x'/y' </p>
+<p><span class="base"><span class="mord mathnormal">k </span><span class="mrel">= </span></span><span class="base"><span class="mord"><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist"><span class="mord mathnormal"><span class="mrel">(</span>x<span class="mbin">⋅</span>y<span class="msupsub"><span class="vlist-t"><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">′) </span></span></span></span></span></span><span class="vlist-s">​</span></span></span></span></span></span>/ <span class="base"><span class="mrel">(</span></span><span class="base"><span class="mord"><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">′</span></span></span></span><span class="mbin">⋅</span><span class="mord mathnormal">y) </span></span></span></span></span></span></span></p>
+<p>Using this to change an 80/20 decision to 50/51, k needs to be greater than 4.08. </p>
+<p>To change it to 20/80, k needs to be greater than 16. This means B needs to be 16x better choice suddenly compared to A. </p>
+<p>What does this mean in the real world?<br><br></p>
+<p>if you have two options, A and B. And you are 80% sure about A. You can negotiate for a B 4x better for it to win. And when you already have such a strong affinity towards A, sitting on the negotiation table doesn't harm. You come out with a 4x, or you have an A anyway. Who knows if you are even getting a 16x? It absolutely does not harm if you are comparing future optimistic value vs liquidity today.</p>
+<p>Go, use the formula. To make it more robust, you can update it with an inflation factor for money, risk &amp; opportunity cost for new opportunity cost, joy vs regret weightage for emotions, state of mind, etc. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The third person view</title>
         <author>
@@ -313,35 +347,6 @@
 <p>But life isn't this linear, nor everything has equal weight. Some things even in distant future have greater importance in life. Some experiences from past carry bigger lessons than others. So, we have to aware of the weights. And if it comes down to optimising for past, present or future. It should be always between present and future. <strong>And importance in future should have higher relative weights as closer they are in the timeline</strong>. This is importnat because, time is moving in one direction, so is life, and the best part of the life. But don't forget to enjoy the current moment. I will expand on it. Let it be meta for now. Let the entirety of this be meta for now.</p>
 <p>I was coming back from Mumbai. Bus journey took 8 hours instead of usual 5. I had planned take an hour long nap in the afternoon. But I reached at 4pm. I had a play rehearsal scheduled at 6pm. I had almost slotted a nap after reaching home. So, I was feeling sleepy. But I couldn't sleep for and hour, wake up do the preparation and go to the play rehearsal. This wasn't possible. So, I decided to put some work. And later wrote this down. Went to rehearsal at 6. </p>
 <p>I am coming back to this and publishing it. With the updated title. Yes, Present is real. I should be optimising it, without blocking myself on past excuses, experiences. And I start to embrace more chaos in life, being able to open myself to frequent changes in plan, schedule, optimising for present is the best thing I can do for better use of the fuel. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Life is Good</title>
-        <author>
-            <name>Bikram Sutar</name>
-        </author>
-        <link href="https://www.thebstar.com/blogs/life-is-good.html"/>
-        <id>https://www.thebstar.com/blogs/life-is-good.html</id>
-        <media:content url="https://www.thebstar.com/blogs/media/posts/3/IMG_0041.jpeg" medium="image" />
-            <category term="life"/>
-            <category term="fokat"/>
-
-        <updated>2024-09-15T02:14:28+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thebstar.com/blogs/media/posts/3/IMG_0041.jpeg" alt="Life is good" />
-                    This is September 15th 2024, IST 2:05am. I am at Mumbai airport. Waiting for my fight to home. Boarding will start at 2.30. So I have like 20 minutes to write it. So, I will make it short. Let's just talk about why am I&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.thebstar.com/blogs/media/posts/3/IMG_0041.jpeg" class="type:primaryImage" alt="Life is good" /></p>
-                <p>This is September 15th 2024, IST 2:05am. I am at Mumbai airport. Waiting for my fight to home. Boarding will start at 2.30. So I have like 20 minutes to write it. So, I will make it short. Let's just talk about why am I writting this. </p>
-<p>Life has been good to me. Things had started to fall into right places. Mentally, Physically, Financially. Whenever I didn't feel like it, I tried and tried to put them in the right places. I tried to make the life good. And now, since it has been good, averaging really good for sometime, I feel this is the right time to unleash the bull run. Take the average higher. This is important to do when I am in control. We never know when life flips it and starts a bear run. </p>
-<p>I am brining this blog back from ashes for the bull run, for the higher average. It is not only an opportunity but a responsibility now to make this run. This blog will act as the brain dump yard, accountability partner no one asked.</p>
-<p> </p>
-<p>Cheers. </p>
             ]]>
         </content>
     </entry>
