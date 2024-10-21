@@ -3,12 +3,53 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2024-10-19T00:30:48+05:30</updated>
+    <updated>2024-10-21T09:53:16+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
     <id>https://www.thebstar.com/blogs</id>
 
+    <entry>
+        <title>Week 1 🎬</title>
+        <author>
+            <name>Bikram Sutar</name>
+        </author>
+        <link href="https://www.thebstar.com/blogs/week-1.html"/>
+        <id>https://www.thebstar.com/blogs/week-1.html</id>
+        <media:content url="https://www.thebstar.com/blogs/media/posts/17/Screenshot-2024-10-20-at-8.58.07-PM.png" medium="image" />
+            <category term="startups"/>
+
+        <updated>2024-10-20T20:55:54+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thebstar.com/blogs/media/posts/17/Screenshot-2024-10-20-at-8.58.07-PM.png" alt="Image representing start of the day" />
+                    Moved to Bangalore, wasted time waiting for furniture, the cleaning guy, and some scrolling to infinity. I will call it a day for today. Week 1 starts tomorrow 🎬 I will be in Bangalore at least till December end. I saw a year progression tweet&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.thebstar.com/blogs/media/posts/17/Screenshot-2024-10-20-at-8.58.07-PM.png" class="type:primaryImage" alt="Image representing start of the day" /></p>
+                <p>Moved to Bangalore, wasted time waiting for furniture, the cleaning guy, and some scrolling to infinity. I will call it a day for today. </p>
+<p><strong>Week 1 starts tomorrow 🎬</strong></p>
+<p>I will be in Bangalore at least till December end. I saw a year progression tweet - 80% is done. We have only 20% left of 2024. Time to buckle up. This is a live document for week 1. </p>
+<p>Before we start, I have a few goals - </p>
+<ul>
+<li>Setup the place</li>
+<li>Hit the gym</li>
+<li>Cricket practice 2 days a week</li>
+<li>Eat and sleep well - it is a long game.</li>
+<li>Build the first version of Kidli - Web send to select parents. </li>
+<li>Build the Kidli App (ios/android) - Do a release</li>
+<li>Get 100 paid parents</li>
+<li>Publish articles - Tech, Leadership, learnings - 2 articles a week. </li>
+</ul>
+<p>Note: I might change some in November but until then let's run with these. </p>
+<p> </p>
+<p><strong>Day 0 - Sunday, October 20, 2024</strong></p>
+<p>- Received the rejection email from <a href="https://www.zfellows.com/" target="_blank" rel="nofollow noopener noreferrer">ZFellows</a> - Without any traction &amp; a co-founder it was kind of obvious. But hey, It fast-tracked my pitch deck and solidified the space. Talked to a few potential users, which I was delaying otherwise. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I am flying to Bangalore - No more code words!</title>
         <author>
@@ -321,37 +362,6 @@
 <p>Makes sense now. Overpreparation is just preparation, when done with an obsession for the goal. </p>
 <p> </p>
 <p>Let's hit more goals 🎯</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Personal website is live 🚀</title>
-        <author>
-            <name>Bikram Sutar</name>
-        </author>
-        <link href="https://www.thebstar.com/blogs/personal-website-is-live.html"/>
-        <id>https://www.thebstar.com/blogs/personal-website-is-live.html</id>
-        <media:content url="https://www.thebstar.com/blogs/media/posts/7/Screenshot-2024-09-23-at-12.39.41-AM.png" medium="image" />
-            <category term="life"/>
-
-        <updated>2024-09-23T00:39:12+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thebstar.com/blogs/media/posts/7/Screenshot-2024-09-23-at-12.39.41-AM.png" alt="Bikram&#x27;s website" />
-                    Okay, it was live always, but wasn't updated. My website and blogs were in one place. To write a blog I had to open my terminal and a code editor. This was a huge friction. And slowly as I mentioned earlier, Whatsapp notes took over.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.thebstar.com/blogs/media/posts/7/Screenshot-2024-09-23-at-12.39.41-AM.png" class="type:primaryImage" alt="Bikram&#x27;s website" /></p>
-                <p>Okay, it was live always, but wasn't updated. My website and blogs were in one place. To write a blog I had to open my terminal and a code editor. This was a huge friction. And slowly as I mentioned earlier, Whatsapp notes took over. I started taking notes on Apple notes, Whatsapp self-DM, and on my iPad.</p>
-<p>Updating the website and blog was always in my mind. So much that, I started building a blog engine. Visual blog builder. It worked. It can create basic page with a visual rich text editor. <a href="https://github.com/theBstar/blogder" target="_blank" rel="noopener noreferrer">Still a prototype - find it on github here</a>. As I started using it, I found it needs a lot of features. Initially plan was to just build the features. But I have limited time. And I wanted to build a blog engine to just start blogging again. I wanted to build it, such that I didn't have to open my terminal and IDE to dump something. Fortunately, <a href="https://getpublii.com/" target="_blank" rel="nofollow noopener noreferrer">I found Publii, a public open-source static CMS</a>. It does exactly this. I can write without touching terminal, IDE, without thinking deployment, and it connects to github pages. YaY 🥳 !</p>
-<p>I am back at writing online. It is fun again. Now, I had to update the homepage. <a href="https://v0.dev/" target="_blank" rel="noopener noreferrer">V0.dev</a> has been one of the best things on frontend in recent times. I coded up the initial page with just a few touches. And <a href="https://www.thebstar.com/" target="_blank" rel="noopener noreferrer">the updated website is also live - same old url thebstar.com.</a> 🚀</p>
-<p>I have picked up a really good pace in the last 2 weeks. This blog is just the tip of it. Just a sneak peek into my builder energy picking up. Will be sharing more soon!</p>
-<p>Cool, lets do some small talk. I went shirt-less twice in a crowd last week. I was attending a funeral of a friend's dad. Last rituals were on the bank of a river. We took a bath afterwards. Later in the week, I went to singri to do nets practice on Saturday (21st September 2024). Went shirt-less again due to heat and sweat. I have some fotage from the session, and I look good. I hadn't seen some of those muscles (I still have to look hard though 😅). Motivation to hit the gym. 💪 I have missed the gym for last 3 weeks completely. Had to do some travel. Will tell the story later. This is already long and it is almost 1am now. </p>
-<p>Take care!</p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
