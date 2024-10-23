@@ -3,7 +3,7 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2024-10-21T20:30:11+05:30</updated>
+    <updated>2024-10-23T23:08:03+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
@@ -54,8 +54,28 @@
 <ul>
 <li>Setup wifi, room ✅, few things pending - take delivery of chair, a big bucket since the area seems to have some water issues, bedsheet &amp; a pillow</li>
 <li>Fixed gym - hitting from tomorrow. Found a cricket club - a scheduled match on Sunday. ✅</li>
-<li>Should have Kidli api running today. 🧑‍💻</li>
+<li><span style="text-decoration: line-through;">Should have Kidli api running today</span>. 🧑‍💻 Update: Only got basic Azure open ai llm wrapper setup. Didn't complete this. </li>
 </ul>
+<p><strong>Day 2 - Tuesday, October 22nd 2024</strong></p>
+<ul>
+<li>Had a good day at work. Did some WebGPU experiments. ✅</li>
+<li>Didn't make much progress on the personal front. </li>
+<li>Okay, went to the gym. First day! ✅</li>
+<li>Caught cold somehow 🥶</li>
+</ul>
+<p><strong>Day 3 - Wednesday, October 23rd 2024</strong></p>
+<ul>
+<li>Cold got worse. Wasn't at 100%, to be honest. </li>
+<li>Initially, I thought I would take a break, slept so many hours. But later did some experiments at work.</li>
+<li>Yes, Went to the gym. ✅ I picked myself up. I could have had a better day. These cold and all shouldn't stop me. Show up! to Everything, Everywhere committed!</li>
+</ul>
+<p> </p>
+<p><strong>Mid-week thoughts </strong></p>
+<p>There have been a few observations and thoughts that have slowed things down. But it shouldn't really—time to re-center the focus. I need to release a v0 this week. Even if it means just an LLM wrapper. </p>
+<p>Also, and it is an old realization, My day outside of work is heavily proportionate to my day at work. I should find ways to do the best work at any cost. Or start decoupling these two for the better. </p>
+<p>Looking forward to the next 3 days! And a game on Sunday 🏏</p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
