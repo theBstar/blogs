@@ -3,12 +3,32 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2024-10-24T23:26:44+05:30</updated>
+    <updated>2024-10-27T19:26:57+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
     <id>https://www.thebstar.com/blogs</id>
 
+    <entry>
+        <title>Week 2 🏃‍➡️</title>
+        <author>
+            <name>Bikram Sutar</name>
+        </author>
+        <link href="https://www.thebstar.com/blogs/week-2.html"/>
+        <id>https://www.thebstar.com/blogs/week-2.html</id>
+
+        <updated>2024-10-27T19:26:57+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to week 2 👋. I should mostly start running physically and get myself closest to running mentally. This is what week 2 is all about. If I do it well, there will be Bangalore Diwali celebrations to end the week. I don't have much&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to week 2 👋. I should mostly start running physically and get myself closest to running mentally. This is what week 2 is all about. If I do it well, there will be Bangalore Diwali celebrations to end the week. I don't have much idea about the celebration, though. I will update this on Monday, 28th October 2024. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Confession: I have lost something. </title>
         <author>
@@ -24,23 +44,27 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/18/Screenshot-2024-10-24-at-10.38.19-PM.png" alt="Man looking at light" />
-                    It is 10.50 pm and I am wrapping up my day. I am not providing my daily update here, For that go read this. Here, I am confessing, a secret confession. And if you read this, don't tell anyone because it is secret. And don't&hellip;
+                    October 24th 2024 It is 10.50 pm and I am wrapping up my day. I am not providing my daily update here, For that go read this. Here, I am confessing, a secret confession. And if you read this, don't tell anyone because it is&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.thebstar.com/blogs/media/posts/18/Screenshot-2024-10-24-at-10.38.19-PM.png" class="type:primaryImage" alt="Man looking at light" /></p>
-                <p>It is 10.50 pm and I am wrapping up my day. I am not providing <a href="https://www.thebstar.com/blogs/week-1.html">my daily update here, For that go read this</a>. Here, I am confessing, a secret confession. And if you read this, don't tell anyone because it is <strong>secret</strong>. And don't even ask me!</p>
+                <p><strong>October 24th 2024</strong></p>
+<p>It is 10.50 pm and I am wrapping up my day. I am not providing <a href="https://www.thebstar.com/blogs/week-1.html">my daily update here, For that go read this</a>. Here, I am confessing, a secret confession. And if you read this, don't tell anyone because it is <strong>secret</strong>. And don't even ask me!</p>
 <p>The confession: I have lost my bio-sleep clock. From 2016-2019, magically, I developed this ability to sleep an exact number of hours. Wake up without an alarm. I could sleep and wake up just on time. Every day for the next few years. It sounds weird, but It is true. For the last few months, I have been fighting hard to wake up to my alarm and yet have been missing it so many times! And it has been a quest to get my powers back. </p>
 <p>It feels magical when you have the perfect start to the day. And waking up on time, without an alarm, is part of the perfect start. It gives a really big boost to my day. These small things keep me fresh and more active than any coffee machine. </p>
 <p>As I reflect and write this, I can pinpoint one instance where I nearly missed my flight, and maybe that was the start of losing confidence. Subconscious operating prompts got messed up. Time to rewire. </p>
 <p>Time to set off the alarm to freshen my powers. Time for those timed naps. Time for a perfect start to the day. As I have been always used. </p>
 <p>Time for the perfect sleep now 😴</p>
+<p><strong>October 27th 2024</strong></p>
+<p>I tried removing the alarm and also tried putting a stricter instruction to my brain - that I must wake up at 5.30 am. I am almost there now. Energy is back. The Undertaker needs to raise (I will write on this later)!</p>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Week 1 🎬</title>
+        <title>Week 1 🎬 - 🥳</title>
         <author>
             <name>Bikram Sutar</name>
         </author>
@@ -64,14 +88,14 @@
 <p>I will be in Bangalore at least till December end. I saw a year progression tweet - 80% is done. We have only 20% left of 2024. Time to buckle up. This is a live document for week 1. </p>
 <p>Before we start, I have a few goals - </p>
 <ul>
-<li>Setup the place</li>
-<li>Hit the gym</li>
-<li>Cricket practice 2 days a week</li>
-<li>Eat and sleep well - it is a long game.</li>
-<li>Build the first version of Kidli - Web send to select parents. </li>
-<li>Build the Kidli App (ios/android) - Do a release</li>
+<li>Setup the place ✅</li>
+<li>Hit the gym ✅</li>
+<li>Cricket practice 2 days a week 🔴</li>
+<li>Eat and sleep well - it is a long game. ✅</li>
+<li>Build the first version of Kidli - Web send to select parents. - Instead did a soft signup launch - got the first signup. 🟡 🥳</li>
+<li>Build the Kidli App (ios/android) - Do a release </li>
 <li>Get 100 paid parents</li>
-<li>Publish articles - Tech, Leadership, learnings - 2 articles a week. </li>
+<li>Publish articles - Tech, Leadership, learnings - 2 articles a week. 🟡</li>
 </ul>
 <p>Note: I might change some in November but until then let's run with these. </p>
 <p> </p>
@@ -84,7 +108,7 @@
 <ul>
 <li>Setup wifi, room ✅, few things pending - take delivery of chair, a big bucket since the area seems to have some water issues, bedsheet &amp; a pillow</li>
 <li>Fixed gym - hitting from tomorrow. Found a cricket club - a scheduled match on Sunday. ✅</li>
-<li><span style="text-decoration: line-through;">Should have Kidli api running today</span>. 🧑‍💻 Update: Only got basic Azure open ai llm wrapper setup. Didn't complete this. </li>
+<li><span style="text-decoration: line-through;">Should have Kidli API running today</span>. 🧑‍💻 Update: Only got basic Azure open ai llm wrapper setup. Didn't complete this. </li>
 </ul>
 <p><strong>Day 2 - Tuesday, October 22nd 2024</strong></p>
 <ul>
@@ -96,7 +120,7 @@
 <p><strong>Day 3 - Wednesday, October 23rd 2024</strong></p>
 <ul>
 <li>Cold got worse. Wasn't at 100%, to be honest. </li>
-<li>Initially, I thought I would take a break, slept so many hours. But later did some experiments at work.</li>
+<li>Initially, I thought I would take a complete break, could only sleep so many hours. Later did some experiments at work.</li>
 <li>Yes, Went to the gym. ✅ I picked myself up. I could have had a better day. These cold and all shouldn't stop me. Show up! to Everything, Everywhere committed!</li>
 </ul>
 <p> </p>
@@ -110,8 +134,26 @@
 <li>Had a good day at work - solved a few issues, helped fix one critical issue, and ran one good experiment. I am thinking of writing one article tomorrow on at least one experiment I ran in the week. ✅</li>
 <li>My Google Play console account verification was out of date. Updated - it took some time. Hope verification completes soon. 🟡 I would have liked to have at least the auth part solved today, but I couldn't do it. Let's do it tomorrow. I want to see a big check tomorrow. </li>
 </ul>
+<p><strong>Day 5 - Friday, October 25th 2024</strong></p>
+<ul>
+<li>Not much progress on Kidli</li>
+<li>Work wise a good day. Great demo by the team ✅</li>
+</ul>
+<p><strong>Day 6 - Saturday, October 26th 2024</strong></p>
+<ul>
+<li>Talked to an Edtech expert, with deep expertise in building learning experiences. Provided some references to people working in the space in India.</li>
+<li>Also found Thecuriousparent, thanks to an old friend, Seems like the guy is fighting the exact problem. Would be interesting to talk to. Let's see if I can set up a chat.</li>
+<li>Went deeper reading into b2b sales. Good all-nighter. Slept around 4, back at 8 with full energy. </li>
+</ul>
+<p><strong>Day 7 - Sunday, October 27th 2024</strong></p>
+<ul>
+<li>Soft launched Kidli - Updated website, added Google Analytics, added waitlist form &amp; sent to parent groups, and Reddit. I must figure out if I can publicly put it on my socials. Socials reminded me, that I should add social links to the homepage. ✅</li>
+<li> Got one signup. It always starts like 0, 1, ... 🥳</li>
+<li>Had planned to go for a run, but missed. </li>
+</ul>
 <p> </p>
-<p> </p>
+<p>Overall, it was a productive week. Got some work done, plus good food &amp; physical activity. I am writing this at 7.15 pm IST. Had a long screen time today, and I will be reading some books now. </p>
+<p>It is only going to get better from here. 💪</p>
             ]]>
         </content>
     </entry>
@@ -340,50 +382,6 @@
 <p>Go, fake it <span style="text-decoration: line-through;">till</span> to make it. </p>
 <p>Cheers. </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Do what you love, Or love what you do</title>
-        <author>
-            <name>Bikram Sutar</name>
-        </author>
-        <link href="https://www.thebstar.com/blogs/do-what-you-love-or-love-what-you-do.html"/>
-        <id>https://www.thebstar.com/blogs/do-what-you-love-or-love-what-you-do.html</id>
-        <media:content url="https://www.thebstar.com/blogs/media/posts/9/Screenshot-2024-09-26-at-1.13.58-AM.png" medium="image" />
-            <category term="life"/>
-
-        <updated>2024-09-26T01:14:31+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thebstar.com/blogs/media/posts/9/Screenshot-2024-09-26-at-1.13.58-AM.png" alt="Shaktiman flying" />
-                    I wanted to be a superman. Not exactly, I never had a TV growing up. My neighbourhood of 150 homes had only 2/3 TVs. I must have been 7/8 years old. My paternal uncle (edlest of my father's sibling), used to take me to one&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.thebstar.com/blogs/media/posts/9/Screenshot-2024-09-26-at-1.13.58-AM.png" class="type:primaryImage" alt="Shaktiman flying" /></p>
-                <p>I wanted to be a superman. Not exactly, I never had a TV growing up. My neighbourhood of 150 homes had only 2/3 TVs. I must have been 7/8 years old. My paternal uncle (edlest of my father's sibling), used to take me to one of those neighbours. It was so fun job to be flying around, to be able to help needy.</p>
-<p>My mother once told me, and also Sree Krishna in Mahabharat (can't recall correctly) 'Wish for others, and good things will happen'.  This made so sense to my tinny brain. I had only three wishes</p>
-<p>1. Give peace to everyone.</p>
-<p>2. Give them good thoughts.</p>
-<p>3. <em><strong>And make me Shaktiman. </strong></em></p>
-<p>It continued till 2008+-1 years. I used to believe I had a deep connection with god. In 2008, I got hooked into watching cricket. And I found a new idol. Sachin Ramesh Tendulkar. So simple of a man, giving so many hopes, bringing joy. I used to find myself in him. My 2 wishes remained the same. 3rd was changed now. I provided god the option. <em><strong>Make me a Shaktiman or a Cricketer. </strong></em></p>
-<p>It was 2011, I wrote my 10th exams. I had a proper break. I used to sit and meditate for almost half an hour every evening. Also, during this time mahabharat was being re-aired. The narator `Samay (Time)`, told how it is the only constant, only flowing truth in the form of change. It also narrated `How satya, and dharma are different, and Krishna went on to explain in Geeta, that karma is dharma`. Samay even touched how dharma isn't required when satya is there. All of this played part in shaping me - I kind of stopped praying. I completely stopped worshiping. Altough I continued wishing two pointers in the first wish to come true. I still do. But, it has changed to what I can do than what would god do. Today, I don't even believe in god in the form they are described in religions. </p>
-<p>Fast forward to 2014, I just wanted to get a good govt job to make my family financially stable. I was still playing cricket and had a dream of making it big one day. But reality was more closer. I had to get a job. I hadn't tought it through to be honest. My brother always wanted to join Army. He joined them in 2015. This was a financial releif. He was just 17, his actual age. I was 18 and half. We decided if He is going through it, I have to make it big now. </p>
-<p>At this point, I knew I wasn't going to make it big in cricket. I kind of started to hate it in reality. As I saw age frauding happening at big scale from u15 days, back in 2012. Never had that real fire for it afterwards. Now since I could aford to take sometime and We decided to do somthing big, I had to find what is it. <em><strong>I figured doing Civil services would be perfect</strong></em>. I could make a lot of impact, plus make good money. But before this thought could have been matured, I joined a computer class - Nielit O level. Loved it completely, excelled at it. And suddenly the startup door was opened. </p>
-<p>I had been great with people always. Had been in between them, motivating them, guiding them. I find a different energy. Plus I bring the average up. I had been doing odd businesses and handling finances for a long lnog time -</p>
-<p>1. I had started a sim card selling business</p>
-<p>2. I was also doing a soap selling business</p>
-<p>3. I also did Chappals and Shoe selling business during my college days to support myself and the family. </p>
-<p>4. During the same time, I also tried selling utensils and notebooks. </p>
-<p>5. I was always good with money. In school days, I used to save my pocket money and lend to my father in tough times. </p>
-<p>I was kind of a book worm in school days, and I had read about a lot of famous personalities, making it big from 0. Again back in 2016, I was reading about startup folks - Bezos, Zuckerberg, Musk. Kind of impact they had. I didn't have a laptop, nor a cs graduation. But I was doing well in my computer class course work. I was already reversing arrays, checking prime numbers, building job application platform. 😅. Felt like I was built for it. Felt like I found my calling. <em><strong>I wanted to build a software company - to create something world will use, to create wealth, to have influence, to have a huge impact. </strong></em></p>
-<p>It was 2020, I was doing good at being a builder, being a software engineer. Earning decent money, giving back to society in own capacity, I realised what I always wanted to do - <em><strong>I wanted to have an impact in the world, to make it better, in whatever way I could, even say .00000001 percent</strong></em>. </p>
-<p>I am writting this in 2024. And as I look back my wishes or dreams or goals you would say, have changed over times. Yet, I have stayed relatively happy and successful (peace) during each of those phase. At times, I wasn't doing what I love. <em><strong>But I aboslutely loved what I did</strong></em>. Wise words guiding to - focus on the proccess and not results helped tremendously.</p>
-<p>Is this the complete truth? As I delved deeper, I found that I always wanted to do one thing, I always loved one thing - which is <em><strong>making an impact. </strong></em>How I expressed it changed over time, how I wanted to make this happen did chagne. But i look at the wishes, goals, core of it has been  driven by <em><strong>a fire to make an impact</strong></em>. Things are connecting now. </p>
-<p>I have a mountain to move before I sleep, and there is only a little time. </p>
-<p>See you!</p>
             ]]>
         </content>
     </entry>
