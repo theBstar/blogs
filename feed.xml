@@ -3,14 +3,14 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2025-01-20T21:21:51+05:30</updated>
+    <updated>2025-03-27T00:17:00+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
     <id>https://www.thebstar.com/blogs</id>
 
     <entry>
-        <title>What can I get done (52-week sprints) - 2025</title>
+        <title>What can I get done (52-week) - 2025</title>
         <author>
             <name>Bikram Sutar</name>
         </author>
@@ -29,35 +29,53 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.thebstar.com/blogs/media/posts/25/Screenshot-2025-01-20-at-9.21.20-PM.png" class="type:primaryImage" alt="" /></p>
-                <p>Elon acquired Twitter, renamed it to x.com, and laid off a significant workforce, yet it continues to strive more efficiently. This one question from him doing rounds on x.com - 'What did you get done this week?'. By asking this every week, I can infuse the urgency. The answer to this should be directional. There should be a goal I am working towards every week. This is a living document of 52 sprints.  </p>
-<p><strong>Here is the direction - </strong></p>
-<ol>
-<li>Leverage - Wealth, brand. Questions to answer - <br>
-<ul>
-<li>How much money did I make?</li>
-<li>How many people did I reach?</li>
-<li>How many valuable connections did I make?</li>
-</ul>
-</li>
-<li>Health - Let's have the visible abs this year. If not this year it isn't happening anytime. Questions to answer
-<ul>
-<li>What did I do this week to have visible abs?</li>
-<li>Did I sleep well? Oversleep, under-sleep?</li>
-</ul>
-</li>
-<li>Knowledge - Be on top of AI and establish engineering excellence in the network. Math is back. 
-<ul>
-<li>What did I learn?</li>
-<li>What did I build &amp; publish on the web? Engineering Article, new product, open source contribution?</li>
-<li>What did I read?</li>
-<li>What did I learn in math?</li>
-</ul>
-</li>
-</ol>
-<p>I will pursue items from this list, but all of them are secondary, and I should not be judged by them. I have a wishlist that includes playing plenty of cricket matches, achieving a new personal record for a half marathon, learning a language (which was my goal for 2024), learning to play a musical instrument, and writing more poems and sketches. However, I should not be judged by these pursuits. When the year ends, I want to review and check off the above three items. If I can check off anything from the wishlist, that will be a bonus. </p>
+                <p>Elon acquired Twitter, renamed it to x.com, and laid off a significant workforce, yet it continues to strive more efficiently. This one question from him doing rounds on x.com - 'What did you get done this week?'. By asking this every week, I can infuse the urgency. The answer to this should be directional. There should be a goal I am working towards every week. This is a living document of 52 sprints. Read the theme for the year from the table of contents to know more. </p>
 <p>Let's start ⚡</p>
-<p> </p>
-<h2>Week 4 (Week of 20th Jan)</h2>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1in9scsd8ei">March 26th, Week 23th</a></li>
+<li><a href="#mcetoc_1in9scsd8ej">Week 4 (Week of 20th Jan)</a></li>
+<li><a href="#mcetoc_1in9scsd8ek">Week 1 to 3</a></li>
+<li><a href="#mcetoc_1in9scsd8el">Theme for the Year</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1in9scsd8ei">March 26th, Week 23th</h2>
+<p>Honestly, I don't remember which week this is (13th, I googled it). I haven't been able to tick anything from the above list. Although</p>
+<ul>
+<li>Health
+<ul>
+<li>I have been sleeping well. A good number of hours. ~8. I want to bring it down to 6/7. </li>
+<li>I have also started doing a few runs. Not regular yet.</li>
+<li>Physically, look-wise, I am not way far from abs. I have maintained where I got by the end of 2024. </li>
+<li><span style="color: #f1c40f;">My diet can be better.</span></li>
+<li><span style="color: #e03e2d;">I have developed lower back pain &amp; knee pain. Have been working on recovery. Getting better. It should go away in the next 2 weeks. </span></li>
+<li><span style="color: #e03e2d;">Should hit the gym. </span></li>
+</ul>
+</li>
+<li>Learnings &amp; Build
+<ul>
+<li>I have been reading books - Recently reading Thinking in Bets.</li>
+<li>I have built a few new POCs, on the build side, all on my Git Hub - https://github.com/thebstar. </li>
+<li><span style="color: #e67e23;">Still running behind on the latest AI stuff, practically. </span></li>
+</ul>
+</li>
+<li>Growth &amp; Investment
+<ul>
+<li><span style="color: #169179;">I have started technical advising in a tech startup. <a href="https://spacesos.com/" style="color: #169179;">https://spacesos.com/</a></span></li>
+<li>I have set up some passive investments. Long term investments</li>
+<li>I have been looking to set up at least one manufacturing plant that in theory will give me a good return. </li>
+<li><span style="color: #e03e2d;">I haven't yet worked on how many people I reached, branding. My next update should have something on it.</span></li>
+</ul>
+</li>
+<li>Hobby &amp; fun
+<ul>
+<li>I have played a lot of cricket matches. It will slow down now since season is mostly over.</li>
+<li><span style="color: #e03e2d;">I haven't progressed much in new language learning. Maybe I shall go and practice with someone. </span></li>
+</ul>
+</li>
+</ul>
+<h2 id="mcetoc_1in9scsd8ej">Week 4 (Week of 20th Jan)</h2>
 <ol>
 <li>Health - Resume Gym (have been off from mid-2024)</li>
 <li>Leverage -
@@ -73,8 +91,35 @@
 </li>
 </ol>
 <p> </p>
-<h2>Week 1 to 3</h2>
+<h2 id="mcetoc_1in9scsd8ek">Week 1 to 3</h2>
 <p>I didn't get anything done in these 3 weeks that aligned with the direction I had set. I am here finalizing the direction on the <strong>4th week, 20th of Jan</strong>. Hence, Can I say I created the clarity? Saying this, I did start re-reading the 11th Math book. Read Set theory, functions, and Relations.</p>
+<p> </p>
+<p> </p>
+<h2 id="mcetoc_1in9scsd8el"><strong>Theme for the Year</strong></h2>
+<ol>
+<li>Leverage - Wealth, brand. Questions to answer - <br>
+<ul>
+<li>How much money did I make?</li>
+<li>How many people did I reach?</li>
+<li>How many valuable connections did I make?</li>
+</ul>
+</li>
+<li>Health - Let's have the visible abs this year. If not this year, it isn't happening anytime. Questions to answer
+<ul>
+<li>What did I do this week to have visible abs?</li>
+<li>Did I sleep well? Overslept, under-slept?</li>
+</ul>
+</li>
+<li>Knowledge - Be on top of AI and establish engineering excellence in the network. Math is back. 
+<ul>
+<li>What did I learn?</li>
+<li>What did I build &amp; publish on the web? Engineering Article, new product, open source contribution?</li>
+<li>What did I read?</li>
+<li>What did I learn in math?</li>
+</ul>
+</li>
+</ol>
+<p>I will pursue items from this list, but all of them are secondary, and they should not judge me. I have a wishlist that includes playing plenty of cricket matches, learning a language (my goal for 2024). However, I should not be judged by these pursuits. When the year ends, I want to review and check off the above three items. If I can check off anything from the wishlist, will be a bonus. </p>
 <p> </p>
             ]]>
         </content>
