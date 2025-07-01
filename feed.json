@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.thebstar.com/blogs/the-great-banyan-tree.html",
+            "url": "https://www.thebstar.com/blogs/the-great-banyan-tree.html",
+            "title": "The Great Banyan Tree",
+            "summary": "A few days ago, I visited the Indian Botanical Garden in Kolkata. Saw the legendary Great Banyan Tree, a living marvel that’s been around for more than 250 years. 250 years in a human lifetime is 6 generations at least. Nature always finds a way&hellip;",
+            "content_html": "<p data-start=\"209\" data-end=\"540\">A few days ago, I visited the Indian Botanical Garden in Kolkata. Saw the legendary Great Banyan Tree, a living marvel that’s been around for more than 250 years. 250 years in a human lifetime is 6 generations at least. Nature always finds a way to humble me. Trust me, this story isn't about humility. </p>\n<p data-start=\"542\" data-end=\"861\">The original trunk of the Great Banyan was removed long ago. Yet, the tree still stands, spreading over acres, with its aerial roots dropping down, taking hold. If you didn’t know, you’d assume it’s a forest. Me being me, my overthinking brain found a metaphor for life, not just in a biological sense, but in the way existence connects us through generations.</p>\n<p data-start=\"997\" data-end=\"1338\">Each of those roots felt like a child, a grandchild, a descendant carrying forward the life of the original. Every new branch, every fresh root that touched the earth and turned into a trunk, was like a new life, and yet, it was still the same tree. The main trunk may be gone, but its spirit, its essence, continues through its extensions.</p>\n<p data-start=\"1340\" data-end=\"1753\">It made me think about how we humans and perhaps all living things have the same kind of legacy. You can choose how far back you want to go before you call something new, or still part of the old. Some people see life as a single event: a frame between birth and death. Others, maybe just me, are starting to sense it as a continuous thread, a series of connected moments, lives, and dreams that echo through time.</p>\n<p data-start=\"1755\" data-end=\"2095\">No matter how different I feel from my parents, no matter how much my choices, thoughts, or circumstances might diverge from theirs, I realize I’m still living a continuation of their dreams. And they were, in turn, carrying forward the hopes of their parents. That invisible connector persists. You can feel it if you look closely enough.</p>\n<p data-start=\"2097\" data-end=\"2478\">Even though I have no record or knowledge of what my ancestors dreamed a thousand years ago, some part of those aspirations, fears, instincts, and strengths have surely passed down through time, embedded in stories, choices, and even in silence. Maybe the ‘main trunk’ isn’t a person, or a single event, but this vast, unseen, breathing Tree of Life itself - alive in us, through us.</p>",
+            "image": "https://www.thebstar.com/blogs/media/posts/27/WhatsApp-Image-2025-07-01-at-10.22.37-PM.jpeg",
+            "author": {
+                "name": "Bikram Sutar"
+            },
+            "tags": [
+                   "life"
+            ],
+            "date_published": "2025-07-01T22:39:54+05:30",
+            "date_modified": "2025-07-01T22:39:54+05:30"
+        },
+        {
             "id": "https://www.thebstar.com/blogs/what-can-i-get-done-52-week-sprints-2025.html",
             "url": "https://www.thebstar.com/blogs/what-can-i-get-done-52-week-sprints-2025.html",
             "title": "What can I get done (52-week) - 2025",
@@ -160,23 +176,6 @@
             ],
             "date_published": "2024-10-06T01:26:58+05:30",
             "date_modified": "2024-10-06T01:26:58+05:30"
-        },
-        {
-            "id": "https://www.thebstar.com/blogs/v03-t15.html",
-            "url": "https://www.thebstar.com/blogs/v03-t15.html",
-            "title": "V.03 - T15",
-            "summary": "Everything changes. Change is the only constant. You either try hard to drive the change, try controling it or flow with the change. You have no other choice. Not every change is worth your attention. But some are. Some are worth everything. If I could&hellip;",
-            "content_html": "<p>Everything changes. Change is the only constant. You either try hard to drive the change, try controling it or flow with the change. You have no other choice.</p>\n<p>Not every change is worth your attention. But some are. Some are worth everything. If I could I would put all the resources I could imagine. If it feels like this, and if it is realistic. Be optimistic about it and put everything in it. Control the change. </p>\n<p>I have been controling my change. Okay, 'Fate' - here I say the magic word. Does this mean I control everything? No, I surely can only control a very insignificant of part of this big game called Life. But this insignificant small part plays a huge part in determining my fate. If fate is the infintely running car that I can't control speed of, I can certainly control steering at times. Giving me enough control to pass by certain vallies. </p>\n<p>I don't like to sit static and react to change. I want to proactive. I want to guide them. I can't control the most part of it. But some vallies I want to visit, I will do everything to steer the engine it to take me there. It is time to steer it again. To new direction. To new valley. </p>\n<p>🚀</p>",
-            "image": "https://www.thebstar.com/blogs/media/posts/12/Screenshot-2024-10-04-at-11.01.10-PM.png",
-            "author": {
-                "name": "Bikram Sutar"
-            },
-            "tags": [
-                   "life",
-                   "fokat"
-            ],
-            "date_published": "2024-10-04T23:07:47+05:30",
-            "date_modified": "2024-10-04T23:12:23+05:30"
         }
     ]
 }
