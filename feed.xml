@@ -3,12 +3,52 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2025-07-07T08:44:32+05:30</updated>
+    <updated>2025-07-10T01:51:23+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
     <id>https://www.thebstar.com/blogs</id>
 
+    <entry>
+        <title>The ego of a conversation</title>
+        <author>
+            <name>Bikram Sutar</name>
+        </author>
+        <link href="https://www.thebstar.com/blogs/the-ego-of-a-conversation.html"/>
+        <id>https://www.thebstar.com/blogs/the-ego-of-a-conversation.html</id>
+        <media:content url="https://www.thebstar.com/blogs/media/posts/30/Screenshot-2025-07-10-at-1.49.01-AM.png" medium="image" />
+            <category term="life"/>
+            <category term="fokat"/>
+
+        <updated>2025-07-10T01:50:06+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thebstar.com/blogs/media/posts/30/Screenshot-2025-07-10-at-1.49.01-AM.png" alt="Doctor Strange (2016)" />
+                    Have you watched Doctor Strange (2016) (YouTube link)? If you haven't already, do watch before reading further. Click on the link above. It is just a 2-minute scene in 2x. Great. In the scene, Strange traps Dormammu in a time loop. Strange keeps coming back,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.thebstar.com/blogs/media/posts/30/Screenshot-2025-07-10-at-1.49.01-AM.png" class="type:primaryImage" alt="Doctor Strange (2016)" /></p>
+                <p data-start="1300" data-end="1333"><a href="https://youtu.be/LrHTR22pIhw?si=I5Ezz3d6AKlnzVvL" target="_blank" rel="noopener noreferrer">Have you watched <strong>Doctor Strange (2016) (YouTube link)</strong></a>?<br data-start="1372" data-end="1375">If you haven't already, do watch before reading further. Click on the link above. It is just a 2-minute scene in 2x.</p>
+<p data-start="1300" data-end="1333">Great. In the scene, Strange traps Dormammu in a time loop. Strange keeps coming back, again and again, repeating the same thing while Dormammu gets increasingly frustrated. You watched it right 🙄</p>
+<p data-start="1553" data-end="1697">On paper, it’s a one-sided conversation. But <strong data-start="1619" data-end="1659">that conversation has enormous value</strong>. It decides the fate of the universe. And if my conversations were of that magnitude, I’d also show up endlessly. No hesitation. No fatigue. No complaints.</p>
+<p data-start="1819" data-end="1897">But most conversations aren’t Dormammu deals.</p>
+<h3 data-start="1904" data-end="1929"><a href="https://dictionary.cambridge.org/dictionary/english/ego" target="_blank" rel="noopener noreferrer">Ego</a> - Red vs Green</h3>
+<ol>
+<li><span style="color: #2dc26b;"><strong>Green ego</strong> - Your idea or opinion of yourself, your feeling of your importance, and your ability</span></li>
+<li><span style="color: #e03e2d;"><strong>Red ego</strong> - Hidden, unspoken desires, resulting in real-world demand</span></li>
+</ol>
+<p data-start="1931" data-end="2034">Dormammu, in that scene, is all <span style="color: #e03e2d;"><strong data-start="1963" data-end="1974">Red Ego</strong></span>.<br data-start="1975" data-end="1978">He’s demanding outcomes, submission, his way or nothing.</p>
+<p data-start="2036" data-end="2239">Strange, on the other hand, carries a <strong data-start="2074" data-end="2087"><span style="color: #2dc26b;">Green Ego</span> </strong>- a healthy, maybe a bit overconfident awareness of his worth. He knows what he’s capable of. He knows why he matters. He knows what the stakes are. And that’s why he can endure the loop.</p>
+<p data-start="2036" data-end="2239">He’s not chasing Dormammu’s validation. He’s protecting the world. Doing his duty. That's the conversation.</p>
+<h3 data-start="2357" data-end="2388">My green ego</h3>
+<p data-start="2390" data-end="2532">I try to protect my <span style="color: #2dc26b;"><strong data-start="2427" data-end="2440">Green Ego</strong></span> in a conversation.<br data-start="2448" data-end="2451">I know why I am in it.  And frankly, I’m overconfident about it. Hence, I won't ever pull out the awkwardness trick. Awkwardness in these situations is real. But think deeply, and awkwardness is nothing but an illusion for underconfidence or a conversation not having a green ego. </p>
+<p data-start="2534" data-end="2734"><strong data-start="2534" data-end="2572">Yes, each conversation should have an ego</strong><br data-start="2572" data-end="2575">A healthy, <span style="color: #2dc26b;"><strong data-start="2586" data-end="2599">Green Ego</strong></span> in a conversation means it sustains itself.<br data-start="2643" data-end="2646">People feel its value, the importance. Everyone wants to return. It has dignity. It has momentum.</p>
+<p data-start="2736" data-end="2913">When a conversation lacks that when it’s one-sided, when it needs to be dragged, my Green Ego reminds me I’m not stuck in a time loop. And unless I am dealing with Dormammu, I should not create the loop. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Great Banyan Tree</title>
         <author>
@@ -511,37 +551,6 @@
 <p>Recently, I started realizing this. A lot of the time the person in the center stage is me but detached. Has its own identity. I think I understand him the most. This has been helping me to learn more about myself. How I act, how I feel, how I react. And deduce my thoughts, actions, and reactions to points in time in life. Sometimes these points are ranges, sometimes they are absolute. They are most helpful when absolute. If everything were absolute, then life would have been less fun, and less diverse.</p>
 <p>This is a release post for something else I have been brewing. `Brewing` reminded me I just installed `homebrew` on my new Mac. Yes, I got a Mac for myself a few days ago.</p>
 <p>Dussehra is on in Assam. I will visit the pandals now. 🥳</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Honesty leads you to God</title>
-        <author>
-            <name>Bikram Sutar</name>
-        </author>
-        <link href="https://www.thebstar.com/blogs/honesty-leads-you-to-god.html"/>
-        <id>https://www.thebstar.com/blogs/honesty-leads-you-to-god.html</id>
-        <media:content url="https://www.thebstar.com/blogs/media/posts/13/Screenshot-2024-10-06-at-1.23.03-AM.png" medium="image" />
-            <category term="fokat"/>
-            <category term="daily"/>
-
-        <updated>2024-10-06T01:26:58+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thebstar.com/blogs/media/posts/13/Screenshot-2024-10-06-at-1.23.03-AM.png" alt="The vast cosmos" />
-                    Hey, what are you saying? You don't even believe in god! - This is how they would react to the title. Yes, I don't believe in the traditional definition of God. Most of them sound very selfish and human. Can't be someone who created the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.thebstar.com/blogs/media/posts/13/Screenshot-2024-10-06-at-1.23.03-AM.png" class="type:primaryImage" alt="The vast cosmos" /></p>
-                <p>Hey, what are you saying? You don't even believe in god! - This is how they would react to the title. Yes, I don't believe in the traditional definition of God. Most of them sound very selfish and human. Can't be someone who created the universe. Then, do I believe someone created the universe? I don't know. This is a very blurry line. But I respect people's beliefs - it is important to call out early. </p>
-<p>You might have gotten an idea already; This isn't a spiritual guide. By God, I mean the really good quality work, the dedication, and countless hours that go unnoticed. Honesty in the process is the path to get there. It leads you to the God. It motivates you to stay strong, keep pushing, get better, and see God. </p>
-<p><a href="https://en.wikipedia.org/wiki/Navaratri" target="_blank" rel="nofollow noopener noreferrer">Navratri</a> is going on. My mom is deeply spiritual. (Spiritual and religious are different; She might be in between, actually). She is fasting these nine days. Sleeping on the floor. She even developed shoulder pain in the last two days. People were suggesting she should sleep in bed today. I went on to check before locking my room. She is still beside her Durga maa pratima on the floor, in a deep sleep. She might be in a little pain tomorrow, but the peace she has today beats everything. </p>
-<p>What is stopping her from sleeping on the bed?  No one is watching or judging her. It is her. She is making the call. She has made a promise, and she will keep it. It might not be all comfortable, but she will do it till she can. And these honest, pure heart - no fluff efforts are what I feel are paths to god. She can't agree more.</p>
-<p>Similarly, in work or academics, these no-fluff hours separate the Best from the good. Honesty in the process and honesty with self are paths to great work. </p>
-<p>✌</p>
-<p> </p>
             ]]>
         </content>
     </entry>
