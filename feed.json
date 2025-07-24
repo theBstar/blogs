@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.thebstar.com/blogs/a-new-kind-of-thinking-model.html",
+            "url": "https://www.thebstar.com/blogs/a-new-kind-of-thinking-model.html",
+            "title": "A new kind of thinking model",
+            "summary": "It is going to be a little different. It is going to be new. It is the need of the hour; we either go extinct or evolve with the tools. I guess going extinct isn't an option, not in my world. Welcome evolution. This is&hellip;",
+            "content_html": "<p>It is going to be a little different. It is going to be new. It is the need of the hour; we either go extinct or evolve with the tools. I guess going extinct isn't an option, not in my world. Welcome evolution. This is a living document/journal for the evolution. </p>\n<p><strong>July 24th 2025</strong></p>\n<p>I was in an interview, and my peers asked this question to the candidate: Given that I give you an open-ended problem, how would you spend the first 24 hours? What would you do? This is an interesting question and gives so much about how people think through problems, that's their framework for solving. Some of these pieces or the entire stack is changing fast in the AI-first world. I have been thinking about this for some time. Time to put a structure around it, maybe I am not yet ready to put a structure, but let's start brewing at least. </p>\n<p>The candidate answered by saying - I would go do research, look at competitors, understand users, and would like to build a mind map around the problem. Mind map sounds so familiar, in fact, for everyone I hired, onboarded, I have given them initial space to go build their mind map and intuition of the space. I have personally done this myself so many times. It is hard to sell anything to me unless I am convinced to buy. I like to build my intuition on the product, whether I need to buy, similarly, what is the problem, why is it worth solving, and why now? Why us? What exactly does solving the problem mean? Building intuition and a mind map around connections. In the age of AI, what part of this can be delegated? What part of this is a good problem for AI? Building intuition is important, but it is also time-consuming &amp; biased towards my existing understanding/experience. And if AI works, what do I do with the free time? Do I start working on another idea? And come back once AI is done. My context switching needs to be better. As I would still like to build intuition, maybe better &amp; more efficient. How do I do this? </p>\n<p> </p>",
+            "author": {
+                "name": "Bikram Sutar"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-24T21:57:16+05:30",
+            "date_modified": "2025-07-24T21:57:16+05:30"
+        },
+        {
             "id": "https://www.thebstar.com/blogs/the-heist-of-the-century.html",
             "url": "https://www.thebstar.com/blogs/the-heist-of-the-century.html",
             "title": "The Heist of the Century",
@@ -154,23 +168,6 @@
             ],
             "date_published": "2024-10-27T19:26:57+05:30",
             "date_modified": "2024-12-30T23:03:12+05:30"
-        },
-        {
-            "id": "https://www.thebstar.com/blogs/confession-i-have-lost-something.html",
-            "url": "https://www.thebstar.com/blogs/confession-i-have-lost-something.html",
-            "title": "Biological clock Confession ",
-            "summary": "October 24th 2024 It is 10.50 pm and I am wrapping up my day. I am not providing my daily update here, For that go read this. Here, I am confessing, a secret confession. And if you read this, don't tell anyone because it is&hellip;",
-            "content_html": "<p><strong>October 24th 2024</strong></p>\n<p>It is 10.50 pm and I am wrapping up my day. I am not providing <a href=\"https://www.thebstar.com/blogs/week-1.html\">my daily update here, For that go read this</a>. Here, I am confessing, a secret confession. And if you read this, don't tell anyone because it is <strong>secret</strong>. And don't even ask me!</p>\n<p>The confession: I have lost my bio-sleep clock. From 2016-2019, magically, I developed this ability to sleep an exact number of hours. Wake up without an alarm. I could sleep and wake up just on time. Every day for the next few years. It sounds weird, but It is true. For the last few months, I have been fighting hard to wake up to my alarm and yet have been missing it so many times! And it has been a quest to get my powers back. </p>\n<p>It feels magical when you have the perfect start to the day. And waking up on time, without an alarm, is part of the perfect start. It gives a really big boost to my day. These small things keep me fresh and more active than any coffee machine. </p>\n<p>As I reflect and write this, I can pinpoint one instance where I nearly missed my flight, and maybe that was the start of losing confidence. Subconscious operating prompts got messed up. Time to rewire. </p>\n<p>Time to set off the alarm to freshen my powers. Time for those timed naps. Time for a perfect start to the day. As I have been always used. </p>\n<p>Time for the perfect sleep now 😴</p>\n<p><strong>October 27th 2024</strong></p>\n<p>I tried removing the alarm and also tried putting a stricter instruction to my brain - that I must wake up at 5.30 am. I am almost there now. Energy is back. The Undertaker needs to raise (I will write on this later)!</p>\n<p><strong>Sat Nov 9th 2024</strong></p>\n<p>I am back on track. I have travelled to us, and my sense of timezone is till getting blended into my biological clock. But I don't need alarms anymore. It is a good feeling. I sleep extra on Staturday mornings, I pull all nighters once in a month on Staturday. All it took was a few concious weeks. I will provide one more update once I am back in bangalore. </p>\n<p> </p>\n<p>December 30 2024</p>\n<p>I am at home, and I don't need alarms. This is normal. </p>\n<p> </p>",
-            "image": "https://www.thebstar.com/blogs/media/posts/18/Screenshot-2024-10-24-at-10.38.19-PM.png",
-            "author": {
-                "name": "Bikram Sutar"
-            },
-            "tags": [
-                   "life",
-                   "fokat"
-            ],
-            "date_published": "2024-10-24T23:20:54+05:30",
-            "date_modified": "2024-12-30T22:59:46+05:30"
         }
     ]
 }
