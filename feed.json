@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.thebstar.com/blogs/internal-monologue-xyz.html",
+            "url": "https://www.thebstar.com/blogs/internal-monologue-xyz.html",
+            "title": "Internal monologue - XYZ",
+            "summary": "This would be a waste of time if you are reading. No one will understand this. I might share this later for reference. Maybe then it would make sense. Should I do X for Y? Should I do when Y should be doing? Why should&hellip;",
+            "content_html": "<p>This would be a waste of time if you are reading. No one will understand this. I might share this later for reference. Maybe then it would make sense. </p>\n<p>Should I do X for Y? Should I do when Y should be doing? Why should I do?</p>\n<p>Because I can, and I know Y should. But does Y want it? Does Y want it bad? I know you want it; I am sure if you want it badly. However, I am certain that X might be the best for Y. </p>\n<p>How certain am I? There is nothing that can go wrong doing X. Is it? Well, most variables are under control. Give me numbers, I love numbers. We can't be accurate, but everything controllable can be controlled here. Let's say 80%. I would have said 90%, I am giving out 10% room for errors. More buffer. So, I am 80% certain Y will have a great time doing X. Concluded from the fact that Y has an 80% chance of making it. </p>\n<p>Is 80% good enough to do something? If it were me, surely it is greater than 50%. So, in a very basic game of choice, it is a good choice. But there are more factors - Y is already doing Z, and Y only has n% of percentage will to do X. </p>\n<p>Let's redo the math. In a basic choosing game, while choosing between two things or n things, you choose the one you want the most. One that makes the most sense to you. Each n has various factors. Here I am calculating - How much Y wants both choices. And I also have an option to play a part, influence this choice, why, and when I should intervene. </p>\n<p>If I assume Z is constant, which is, in this case, because Y knows Z and I know Z and we agree on it being a constant. Important variables are how much Y wants it. Yw, Delta of X, Xd. </p>\n<p>For me, if the average of Yw, Xd &gt; 50, I should influence because this is a score for me to say - X is gonna be better for Y. It isn't mathematical, more of a pseudo math. </p>\n<p>80 + (20+) / 2 &gt; 50 - This means even if Y wants X for 21%, I should influence it.</p>\n<p>From the looks of the number, we talked, Y want it at least 50%. This gives me more buffer to wrong on my initial 80% threshold. </p>\n<p>I should do this. </p>\n<p> </p>",
+            "author": {
+                "name": "Bikram Sutar"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-09T22:59:49+05:30",
+            "date_modified": "2025-08-09T23:00:54+05:30"
+        },
+        {
             "id": "https://www.thebstar.com/blogs/reflections-2025.html",
             "url": "https://www.thebstar.com/blogs/reflections-2025.html",
             "title": "Reflections, mid 2025",
@@ -146,22 +160,6 @@
             ],
             "date_published": "2025-07-10T01:50:06+05:30",
             "date_modified": "2025-07-10T01:51:23+05:30"
-        },
-        {
-            "id": "https://www.thebstar.com/blogs/the-great-banyan-tree.html",
-            "url": "https://www.thebstar.com/blogs/the-great-banyan-tree.html",
-            "title": "The Great Banyan Tree",
-            "summary": "A few days ago, I visited the Indian Botanical Garden in Kolkata. Saw the legendary Great Banyan Tree, a living marvel that’s been around for more than 250 years. 250 years in a human lifetime is 6 generations at least. Nature always finds a way&hellip;",
-            "content_html": "<p data-start=\"209\" data-end=\"540\">A few days ago, I visited the Indian Botanical Garden in Kolkata. Saw the legendary Great Banyan Tree, a living marvel that’s been around for more than 250 years. 250 years in a human lifetime is 6 generations at least. Nature always finds a way to humble me. Trust me, this story isn't about humility. </p>\n<p data-start=\"542\" data-end=\"861\">The original trunk of the Great Banyan was removed long ago. Yet, the tree still stands, spreading over acres, with its aerial roots dropping down, taking hold. If you didn’t know, you’d assume it’s a forest. Me being me, my overthinking brain found a metaphor for life, not just in a biological sense, but in the way existence connects us through generations.</p>\n<p data-start=\"997\" data-end=\"1338\">Each of those roots felt like a child, a grandchild, a descendant carrying forward the life of the original. Every new branch, every fresh root that touched the earth and turned into a trunk, was like a new life, and yet, it was still the same tree. The main trunk may be gone, but its spirit, its essence, continues through its extensions.</p>\n<p data-start=\"1340\" data-end=\"1753\">It made me think about how we humans and perhaps all living things have the same kind of legacy. You can choose how far back you want to go before you call something new, or still part of the old. Some people see life as a single event: a frame between birth and death. Others, maybe just me, are starting to sense it as a continuous thread, a series of connected moments, lives, and dreams that echo through time.</p>\n<p data-start=\"1755\" data-end=\"2095\">No matter how different I feel from my parents, no matter how much my choices, thoughts, or circumstances might diverge from theirs, I realize I’m still living a continuation of their dreams. And they were, in turn, carrying forward the hopes of their parents. That invisible connector persists. You can feel it if you look closely enough.</p>\n<p data-start=\"2097\" data-end=\"2478\">Even though I have no record or knowledge of what my ancestors dreamed a thousand years ago, some part of those aspirations, fears, instincts, and strengths have surely passed down through time, embedded in stories, choices, and even in silence. Maybe the ‘main trunk’ isn’t a person, or a single event, but this vast, unseen, breathing Tree of Life itself - alive in us, through us.</p>",
-            "image": "https://www.thebstar.com/blogs/media/posts/27/WhatsApp-Image-2025-07-01-at-10.22.37-PM.jpeg",
-            "author": {
-                "name": "Bikram Sutar"
-            },
-            "tags": [
-                   "life"
-            ],
-            "date_published": "2025-07-01T22:39:54+05:30",
-            "date_modified": "2025-07-01T22:39:54+05:30"
         }
     ]
 }
