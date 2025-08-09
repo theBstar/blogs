@@ -3,7 +3,7 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2025-08-09T23:00:54+05:30</updated>
+    <updated>2025-08-09T23:12:04+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
@@ -31,10 +31,10 @@
 <p>How certain am I? There is nothing that can go wrong doing X. Is it? Well, most variables are under control. Give me numbers, I love numbers. We can't be accurate, but everything controllable can be controlled here. Let's say 80%. I would have said 90%, I am giving out 10% room for errors. More buffer. So, I am 80% certain Y will have a great time doing X. Concluded from the fact that Y has an 80% chance of making it. </p>
 <p>Is 80% good enough to do something? If it were me, surely it is greater than 50%. So, in a very basic game of choice, it is a good choice. But there are more factors - Y is already doing Z, and Y only has n% of percentage will to do X. </p>
 <p>Let's redo the math. In a basic choosing game, while choosing between two things or n things, you choose the one you want the most. One that makes the most sense to you. Each n has various factors. Here I am calculating - How much Y wants both choices. And I also have an option to play a part, influence this choice, why, and when I should intervene. </p>
-<p>If I assume Z is constant, which is, in this case, because Y knows Z and I know Z and we agree on it being a constant. Important variables are how much Y wants it. Yw, Delta of X, Xd. </p>
-<p>For me, if the average of Yw, Xd &gt; 50, I should influence because this is a score for me to say - X is gonna be better for Y. It isn't mathematical, more of a pseudo math. </p>
-<p>80 + (20+) / 2 &gt; 50 - This means even if Y wants X for 21%, I should influence it.</p>
-<p>From the looks of the number, we talked, Y want it at least 50%. This gives me more buffer to wrong on my initial 80% threshold. </p>
+<p>If I assume Z is constant, which is, in this case, because Y knows Z and I know Z and we agree on it being a constant. As in any case, Y loses the benefit of having Z. The Same benefit will always be there. Important variables are how much Y wants it. Yw, Delta of X, Xd. </p>
+<p>So it's more of a question, how much better X is for Y, compared to Z. It is always better, number-wise, it is -</p>
+<p>Xd <em> Yw = .8 </em> * (Yw)</p>
+<p>If Y doesn't want it, then it is 0, if Y wants it 100%, then it is for sure 800% better. It is an 8x jump. No brainer to do it. </p>
 <p>I should do this. </p>
 <p> </p>
             ]]>
