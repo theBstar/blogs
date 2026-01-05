@@ -3,7 +3,7 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2026-01-05T21:51:14+05:30</updated>
+    <updated>2026-01-05T22:34:41+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
@@ -335,15 +335,19 @@
         </author>
         <link href="https://www.thebstar.com/blogs/2026-manifesto.html"/>
         <id>https://www.thebstar.com/blogs/2026-manifesto.html</id>
+        <media:content url="https://www.thebstar.com/blogs/media/posts/48/Screenshot-2026-01-05-at-10.34.04-PM.png" medium="image" />
+            <category term="life"/>
 
         <updated>2025-11-21T23:18:01+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.thebstar.com/blogs/media/posts/48/Screenshot-2026-01-05-at-10.34.04-PM.png" alt="Thinking" />
                     If you are curious how this has evolved, read it in reverse. 3rd of January It is interesting how fast life changes. For someone like me, speed of learning and iteration matters. It needs to be high. As I gave myself some time in December&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.thebstar.com/blogs/media/posts/48/Screenshot-2026-01-05-at-10.34.04-PM.png" class="type:primaryImage" alt="Thinking" /></p>
                 <p>If you are curious how this has evolved, read it in reverse. </p>
 <p><strong>3rd of January</strong></p>
 <p>It is interesting how fast life changes. For someone like me, speed of learning and iteration matters. It needs to be high. As I gave myself some time in December to live as I want this year, mentally, I have realised a few things. I will start by sharing what I did. I limited my focus. I was spending time on Sanskrit and health. But my main focus was building something and/or finding someone to build with. I talked to 3 people. One of them was the founder of Dukan. He had an early exit. I have been looking for someone like him (more experienced in running the business, having experience in raising funds &amp; getting distribution). But when I started talking, unless for a few very specific domains, it is hard for me to commit to an existing idea. It needs to be a combination of excellent people + really impacting, deeptech, or personal problem for me to commit fully. And commit without having many expectations. </p>
