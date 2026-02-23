@@ -3,12 +3,121 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2026-02-23T08:17:08+05:30</updated>
+    <updated>2026-02-23T09:00:28+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
     <id>https://www.thebstar.com/blogs</id>
 
+    <entry>
+        <title>The experiment</title>
+        <author>
+            <name>Bikram Sutar</name>
+        </author>
+        <link href="https://www.thebstar.com/blogs/the-experiment.html"/>
+        <id>https://www.thebstar.com/blogs/the-experiment.html</id>
+
+        <updated>2026-02-23T09:00:28+05:30</updated>
+            <summary>
+                <![CDATA[
+                    I am going to run a few experiments for the next 2 months. I have a hypothesis This is the greatest time to build (fact), the software building complexity and cost both have gone down drastically (fact), this means small lean teams are possible, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1ji484iqhiv">Resources</a></li>
+<li><a href="#mcetoc_1ji484iqhj0">Strategy</a></li>
+<li><a href="#mcetoc_1ji484iqhj1">Plan</a>
+<ul>
+<li><a href="#mcetoc_1ji484iqhj2">Feb week 1</a></li>
+<li><a href="#mcetoc_1ji484iqhj3">Feb week 2</a></li>
+<li><a href="#mcetoc_1ji484iqhj4">Feb week 3</a></li>
+<li><a href="#mcetoc_1ji484iqhj5">Feb week 4</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p> </p>
+<p>I am going to run a few experiments for the next 2 months. I have a hypothesis</p>
+<blockquote>
+<p>This is the greatest time to build (fact), the software building complexity and cost both have gone down drastically (fact), this means small lean teams are possible, and there are enough revenue-generating, profitable b2c, b2b opportunities that can be executed by one person. In the current world, there can be more bootstrapped companies than ever.</p>
+</blockquote>
+<p> </p>
+<h3 id="mcetoc_1ji484iqhiv">Resources</h3>
+<p>I have a budget of 15L. 5L is the backup for finding out a VC-backed company's traction if bootstraping doesn't work. 6L is my budget for staying and accommodation for the next 12 months with zero income. I have 4 lakhs at my disposal to run bootstrap experiments.</p>
+<p>I have 2 months to pick signals, 2 months to double down, and have clarity if this path is going to work.</p>
+<p><strong>April 30th is the checkpoint for deciding where and whether I double down.</strong></p>
+<p><strong>June 30th is the deadline for this. </strong></p>
+<p> </p>
+<h3 id="mcetoc_1ji484iqhj0">Strategy</h3>
+<p>Build useful things, figure out useful things by talking to people, releasing, and distributing. Show the value quickly to the user, and get them to pay as soon as possible. I can't give unlimited freemium, or I will go broke 🤐</p>
+<p>I am mostly going to focus on b2c niche apps and ideas. And on the side, I will also try to find a big b2b idea. Talk to people - cofounders, vcs, early employees - to find the big idea. </p>
+<h3 id="mcetoc_1ji484iqhj1">Plan</h3>
+<p>The plan is to run several independent experiments in b2c initially. Work on 3 things in parallel</p>
+<ol>
+<li>Build and ship - Staying on top of the fast-moving tech</li>
+<li>Distribute - Marketing and organic leveraging AI
+<ul>
+<li>Content creation </li>
+</ul>
+</li>
+<li>Solve problem for people - POCs, brainstorming, so I get more ideas around the newly evolving build and distribution model. </li>
+</ol>
+<p>If things work, I shall have </p>
+<ol>
+<li>A few apps - generating revenue</li>
+<li>A few stores, selling products</li>
+<li>A few content labs, generating AI content - initially, short marketing content. Later can be creative content</li>
+<li>A new combined distribution model that is proven and can be replicated. </li>
+</ol>
+<p>Making content, marketing - generating leads - top of the funnel, and converting that to purchases, I believe there is a big value. Starting with content gives me space to iterate on this loop faster. </p>
+<h4 id="mcetoc_1ji484iqhj2">Feb week 1</h4>
+<ul>
+<li>Matrum POC. </li>
+<li>Create Apple Developer account</li>
+<li>Warm up reddit, x - post at least 3 content</li>
+<li>Use Claude extensively at work, and figure out whether to buy a cursor or Claude for personal purchase on Sunday. I can always have access to others. </li>
+<li>Settle in</li>
+<li>Set up task/project tracking - linear. </li>
+<li>Cleanup and set up my personal calendar - use a new email id?</li>
+<li>Name the experiment 😅</li>
+</ul>
+<h4 id="mcetoc_1ji484iqhj3">Feb week 2</h4>
+<ul>
+<li>Matrum POC. </li>
+<li>Get iPad note taker ready to release - I don't have a lot of expectations from this, but it is in the pipeline and closest to release. </li>
+<li>Learn AI content generation, make a few character videos. </li>
+</ul>
+<h4 id="mcetoc_1ji484iqhj4">Feb week 3</h4>
+<ul>
+<li>Release iPad note taker</li>
+<li>Company registration? </li>
+<li>Set up a team to generate niche content - a team of 2 people and a partner
+<ul>
+<li>Kids content - hook for kidli, and other kids' products</li>
+<li>Assam, Nepali regional content - hook to sell regional products. </li>
+</ul>
+</li>
+<li>Talk to companies that do print on demand and shipping. Will be used to sell regional trendy clothing. </li>
+<li>Research kids' products, find themes that can be sold</li>
+</ul>
+<h4 id="mcetoc_1ji484iqhj5">Feb week 4</h4>
+<ul>
+<li>Start posting kids' content</li>
+<li>Start posting regional content</li>
+<li>Marketing iPad note taker</li>
+<li>Talk to kids product distributors. </li>
+<li>Set up a store for kids' products, regional products</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Every good thing need to end</title>
         <author>
@@ -531,37 +640,6 @@
 <p>I am an old soul. In the age of T20 cricket and all the glaze, I prefer test matches.  In the age of show and making loud noises, I prefer being sustained and silent. Don't get me wrong, I am every bit opposite to what a traditionalist would be. I don't follow structures; I don't follow institutions for the sake of it. I am on my deathbed, have no chances of surviving, and you give me a way out, even in that situation, you will find me asking why, how? A simple answer like trust me would be enough if I <strong>could</strong> trust you. </p>
 <p>I am so free, I do everything that makes sense to me, everything that seems interesting. I am so free, yet I am in a <strong>cage</strong> of my own. Multiple cages, actually. Okay, they aren't cages; they are boundaries set by me, for my core. For the values, for me. Cage may be an oversimplification. Easy for other people to understand. Maybe they are cages, and I can't help to get out. I can't get out. Better, I don't want to get out. I would know there is a socially better outcome outside of these cages, but I can't help. I am never sold to social outcomes; I want to fly, but in my own free world. I am free when I know I haven't twisted, played with my values. Most free versions are the ones that don't even need to <strong>unsee</strong>. And irony, I have been blessed to <strong>see</strong>. </p>
 <p>To be continued...</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Musings</title>
-        <author>
-            <name>Bikram Sutar</name>
-        </author>
-        <link href="https://www.thebstar.com/blogs/musings-2.html"/>
-        <id>https://www.thebstar.com/blogs/musings-2.html</id>
-        <media:content url="https://www.thebstar.com/blogs/media/posts/46/Screenshot-2026-01-28-at-12.06.28-AM.png" medium="image" />
-
-        <updated>2025-10-24T08:55:19+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.thebstar.com/blogs/media/posts/46/Screenshot-2026-01-28-at-12.06.28-AM.png" alt="" />
-                    Today, October 23, 2025, is Bhai Tika. We, the people of the Nepali community, celebrate bhai tika on the last day of the Tihar festivals. Sisters put a seven-colour tika on the brother's forehead. Praying for their long life and prosperity. There are many such&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.thebstar.com/blogs/media/posts/46/Screenshot-2026-01-28-at-12.06.28-AM.png" class="type:primaryImage" alt="" /></p>
-                <p>Today, October 23, 2025, is Bhai Tika. We, the people of the Nepali community, celebrate bhai tika on the last day of the Tihar festivals. Sisters put a seven-colour tika on the brother's forehead. Praying for their long life and prosperity. There are many such festivals in our community, celebrating the bond between brothers and sisters. </p>
-<p>I am not religious. And a lot of our festivals are very strongly tied to religions. Although some new age people try to find a different meaning and decouple festivals and religions. Maybe they should be separated, but every ritual there carries such significance; not sure if they can be separated. And a lot of rituals in festivals are actually rooted in nature worship, so not sure if they should be separated. Coming back to festivals, as I said, I am not religious. But I like all festivals. And as I live with people who deeply believe in religions, I try to follow all rituals, all sane rituals associated with the relevant festival. Festivals are wonderful ways to celebrate life, bonds, and experiences. They are wonderful to stop, be grateful, appreciate, and celebrate life. Life itself is so worthwhile that, should be celebrated every day. I feel grateful to be living, I feel joyous, I feel spirited, I feel loved, I feel loved, I feel cared for. I feel connections, I feel people around me, I miss the people who left, and I am excited for new people to come and join. It is an endless journey that I am part of. I feel humbled, meaningful, and at peace. Every celebration is the feeding of this positivity to my brain. It is the required nutrition for the brain to churn out more positivity. It is the fuel to manifest a similar reality. </p>
-<p>If I have to visualize my writing, they are never a straight line. So is life, and so our thoughts. Maybe I will structure them if I ever plan to write a book. I don't know. Should I structure them? As long as I am raw, and people have access to thoughts flowing (original versions), I don't have a problem in making them more accessible. Communication is about relay, then telling. But this is my space. My musings. I don't need to be structured. I can open my editor and start writing. I can start dumping. I know where I am going, or sometimes I know a point in a journey, the journey itself is unravelled in the musings. Sometimes, I have a destination and clear starting points as well. But for now, it is a point in time. </p>
-<p>For the last few years, since Jaya has been here (She is my maternal uncle's daughter), she and Tulshi (My paternal uncle's daughter), both in class 11th, 9th now, have been celebrating Rakhi and Bhai tika with a lot of enthusiasm. I feel so elated. Enthusiasm is infectious. I am also infected, what can I say? I celebrated bhai tika with them early in the morning. My mom was heading to her parents' house, father was heading to his sister's house.  Tulshi was heading to her maternal uncle's home. It was decided that the Tika will be celebrated early in the morning at home. This also allowed me to visit my paternal uncle's daughters. They had been inviting me to tika for some time, and I couldn't refuse. Around 10 am, I took my bike out. cleaned it up and headed to their place, a 50km journey. </p>
-<p>24th Oct 2025</p>
-<p>I like riding a bike. Gives me the perfect thrill. There was a time I used to think 2-wheelers are risky, but that was a long time ago. Now, it almost feels like an extension of the body. I feel the gusting wind hitting all over the body, engine thumping, heart pumping more blood, and a rush. The power while overtaking. I started my ride. And was soaking in the feel. On the highway, when I was trying to overtake a truck, the driver spat out Gutkha. It was on my forehead &amp; on my arms. I tried stopping the truck, truck ignored me the first time. But I caught up. Near a speed breaker, I had a chat with the driver. I asked him not to spit like that. He initially said he didn't see me and later apologized. And I carried on. It wasn't a heated conversation. In these kinds of situations, it can very well be a heated conversation. I have started to not pick these small fights that aren't worth it. If I can't change something, is it really worth a fight? The only thing I wanted to change was letting him know I was upset and that he could do better. Hope he does better. In game theory, maybe it is tit for tat with a little forgiveness. And he was a first-time offender. Life goes on. </p>
-<p>Tika was good. At home, I enjoyed it a lot. And at the uncle's place, I enjoyed it equally. I had 3 nieces there, and I enjoyed playing with them a lot. We did a role play, I was their son, a student, and they were preparing me for school and teaching me alphabet sounds in school. I was heading back home, thinking everything balances out, I had a good start, and then the bad incidents. Imagine you being ready, and blushing, and someone spits at you. And then, I had a good time again. I was riding back. A truck again almost hit me. This time, the truck was overtaking another truck, and there was an auto in front of me. Auto turned left to give way to the truck, truck wasn't visible to me initially. I managed to move to the left just in time. Lucky me. Oh, I also met a school batchmate after a really long time, close to my uncle's place, out of nowhere. That was a good time too. </p>
-<p>I was attending <a href="https://en.wikipedia.org/wiki/Deusi/Bhailo">Deusi</a> in the evening when I got a sudden call from my manager. I was on vacation. He called me to congratulate me on a due increment that we were discussing for some time. It finally went through, and from November, it will reflect on my payroll. Well, life truly balances everything out. And there is beauty in seeing the balance. To top this, I then had a really long conversation with a teen from my village, intensely long, like 2/2.5 hours. I had to drop him home later in midnight. At 12 am, I was heading back home on an empty road, some deusi sounds echoing from far. First time I experienced midnight without even 1% of fear. I used to be out at midnight in complete darkness, but I used to have supernatural fear, at least some slight fear somewhere inside. I slept around 1:30 am. A good long day. </p>
-<p>I started with many thoughts yesterday, but I don't feel like completing them all today. One thing I feel is important and I am gonna share is, the last couple of weeks leading to Diwali, I feel so active, so pumped, I shared on the journal, on Twitter, and a few folks. I was finding the reason. The week before Diwali, it was again 3 days of pure power and 3 days of not so much. The days when I felt it were the days that were the most chaotic. Those were the days I had to wake up early and sleep late. And I had challenges in the day. So, chaos on my plate seems like the fuel for the energy. I don't know how sustainable. I don't know if there can be a balance between chaos and peace. I had tried finding the peace and keeping myself super motivated earlier. I am gonna try balancing chaos with peace. Let's see how it goes. I am gonna create busy, packed schedules, and a schedule that I love. </p>
             ]]>
         </content>
     </entry>
