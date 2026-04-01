@@ -3,7 +3,7 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2026-03-25T06:39:43+05:30</updated>
+    <updated>2026-04-01T09:04:22+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
@@ -111,7 +111,8 @@
 <p>I have a budget of 15L. 5L is the backup for finding out a VC-backed company's traction if bootstraping doesn't work. 6L is my budget for staying and accommodation for the next 12 months with zero income. I have 4 lakhs at my disposal to run bootstrap experiments.</p>
 <p>I have 2 months to pick signals, 2 months to double down, and have clarity if this path is going to work.</p>
 <p><strong>April 30th is the checkpoint for deciding where and whether I double down.</strong></p>
-<p><strong>June 30th is the deadline for bootstraping. </strong></p>
+<p><span style="text-decoration: line-through;"><strong>June 30th is the deadline for bootstraping. </strong></span></p>
+<p>It is April 1st and I have started thinking more VC, I need to see signals before I can commit. But if I see signals it is going to be huge and VC.</p>
 <h3 id="mcetoc_1ji484iqhj0">Strategy</h3>
 <p>Build useful things, figure out useful things by talking to people, releasing, and distributing. Show the value quickly to the user, and get them to pay as soon as possible. I can't give unlimited freemium, or I will go broke 🤐</p>
 <p>I am going to focus mostly on B2C niche apps and ideas. On the side, I will also try to find a big B2B idea. Talk to people - cofounders, vcs, early employees - to find the big idea. </p>
@@ -221,10 +222,27 @@
 <li>I shall double down on the parental control app. Test on a live phone &amp; release next week</li>
 </ul>
 <h4 id="mcetoc_1jjc00qv53">Week 5 - March 4th week</h4>
-<p>Buffer time for any carry forwards</p>
-<p> </p>
+<p><strong>1st of April</strong></p>
+<p>End of the month 1of running the experiment. I have a lot of learnings. I built a lot of tech. Still distribution failed. And this is going to be my biggest factor of failure if I fail. I must crack distribution. I have built following apps in the month, but didn't release or put the efforts into the release</p>
+<ul>
+<li>Hindu prayers</li>
+<li>Ipad note taker</li>
+<li>6d/hoply - An AI powered social network of people</li>
+<li>A video generation tool, that can generate videos given a script</li>
+<li>A landing page builder</li>
+<li>AI sales demo agent</li>
+<li><a href="https://www.numen.team/" target="_blank" rel="noopener noreferrer">Numen.team</a> - A Product and Engineering inteligence layer. </li>
+<li>I have also built - <a href="https://hamigorkhali.com/">https://hamigorkhali.com/</a></li>
+<li>And a new age Parental control software</li>
+<li>I have become a really pro user of claude, finishing credits almost every session</li>
+<li>I have went to Sales event, engineering events, founders meet.</li>
+</ul>
+<p>This is a long list, and a long list for 5 weeks. Surely a few things have changed. I have started thinking more VC ideas now. Maybe that is one of the reasons I haven't done many releases. But even then being able to give access, solving one problem - always unlocks conversations. Neverthless, in terms of building, This is the kind of execution that I mean when I say speed !⚡ Let's hit the April running 🚀</p>
 <h3 id="mcetoc_1jk79enc22">April - Another iteration</h3>
+<p><strong>2nd week of March </strong></p>
 <p>This month I shall focus on getting actual signups, users, usage. I feel I have built enough in March. Learnt and iterated enough to take things to the next phase. I will define exactly how it will look like by 5th week. </p>
+<p><strong>1st of April</strong></p>
+<p>This is probably going to be the most important iteration of the experiment. I need to speed run this. I need to get real users and strive to get some real usage this month. This is when I start talking about actual business metrics. <a href="https://learn.deeplearning.ai/courses/build-and-train-an-llm-with-jax/lesson/gy364z/introduction" target="_blank" rel="noopener noreferrer">I want to build an LLM too this month</a>. </p>
 <p> </p>
 <p> </p>
             ]]>
@@ -372,9 +390,13 @@
 </li>
 <li>Traditional businesses (Indirect/passively managed)<br>
 <ul>
-<li>I want to have at least 1 business by the first quarter of the year. By the end of March. I shall have one person at least to manage it for me. 3 by the end of the year.</li>
+<li>I want to have at least 1 business by the first quarter of the year. By the end of March. I shall have one person at least to manage it for me. 3 by the end of the year.
+<ul>
+<li><strong>End of march</strong>: A lot have changed. I have left my job and started focusing on starting up. Nothing else happens till I find some signals of PMF.</li>
+</ul>
+</li>
 <li>This has been a fantasy at the same time, I think there are many good untapped opportunities here. If my goal is to be near people, why not? In some way, once matured, I can use this to give back. </li>
-<li>[<strong>Feb 5</strong>, too early to drop the idea of having a physical business, but I am not sure now]ddfm                                                                                                                                                                                                                                                                                                                                                                                                                             </li>
+<li>[<strong>Feb 5</strong>, too early to drop the idea of having a physical business, but I am not sure now]                                                                                                                                                                                                                                                                                                                                          </li>
 </ul>
 </li>
 </ul>
@@ -382,11 +404,19 @@
 <li>Health
 <ul>
 <li>Dead straight 😅</li>
-<li>Run 21 min 5k - Stamina, endurance, and more anaerobic </li>
+<li>Run 21 min 5k - Stamina, endurance, and more anaerobic 
+<ul>
+<li><strong>March 22nd</strong>: Hey I did<strong> a 22.36 min 5k</strong>, without a lot of training. I was busted and a bit gasping by the end. </li>
+</ul>
+</li>
 <li>I am going to focus more on flexibility and movements this year
 <ul>
 <li>Be able to hold a handstand for 27 sec</li>
-<li>Do a bridge and return from the bridge without any support</li>
+<li>Do a bridge and return from the bridge without any support
+<ul>
+<li><strong>Somewhere in 4th week of march</strong> - I tried doing bridge while showing my friend on a call, failed terribly. My spine need to do some work.</li>
+</ul>
+</li>
 <li>Biggest one - do a split. I give myself 1 year. Should be enough, right? Let's see. </li>
 </ul>
 </li>
@@ -395,7 +425,13 @@
 <li>Fun
 <ul>
 <li>I don't know how I quantify this yet. I need more time. (5th Jan 2026). </li>
-<li>Maybe throw an exciting challenge every 60 days. Can be learning, can be physical endurance. </li>
+<li>Maybe throw an exciting challenge every 60 days. Can be learning, can be physical endurance. 
+<ul>
+<li>I have been going to swiming classes. I have learnt to float on my back. </li>
+<li>I practiced singing once for a few minutes with a friend. I thinking it might be easier than picking an instrument. </li>
+<li>Crazy thing in the first quarter has to be half marathon I ran without any practice.</li>
+</ul>
+</li>
 </ul>
 </li>
 </ol>
@@ -404,6 +440,12 @@
 <p class="msg msg--info">⚠️ Personal space alert. Updates for each week. Raw access. Don't share, don't quote without running it by me, please 🙏</p>
 <p>As usual, this Article will have the goals and progress updates each week.</p>
 <p>Here we go. 🚀</p>
+<h4>Week 13 &amp; 14 (1st of April)</h4>
+<p>A lot has happened. I didn't realized, I missed writting updates for week 13th. I have been heads down building. Just building like its 90s. A builder in a hoodie in a dark garage. Well, not exactly. But very close. But it isn't 90s. We are living in a world that runs on a turbo mode. Everything moves fast. Insanely fast. Even people who had figured out the game, are trying to understand the game again, from ground up. I have built a lot of software. I have written a lot of code with AI. I pay around 15k montly on AI fee. And I only see it growing. </p>
+<p>I have built many things. Also ran my fastest 5k on strava on 22nd March. Bhoje da called me, we chatted and decided to go for a run. He was already running a 21 days running challenge. I ran with him. completed in 22.36 min. He has a colleage, they are doing a 21 days fitness challenge to physically get better. It is fun, inspiring to see them.</p>
+<p><strong>Swiming</strong></p>
+<p>There are these last 2 swiming classes remaining. I had missed them initially. I can swim on my back. I can move on front, but can't breath. I need to learn breathing. I will try in the last 2 classes. But mostly I have to practice this outside of my classes. Priyanshu has invited, his apartment has a swiming pool.</p>
+<p>The silo is still there. In different ways and forms. And people close can feel it. I don't know exactly. Maybe they can feel it. Sarmistha has said it a few times already. This is one type of relationship where I don't give it all, and ask just too much, maybe a little too fast. But speed isn't the problem, nor the ask. It is the inability to give it all. </p>
 <h4 id="mcetoc_1jjv72i41o">Week 12 (11th March)</h4>
 <p>I have been iterating and focusing on some big ideas, exactly two on my side - gethoply.com, an ai powered social network that actually connects people without noise - with Priyanshu. Kidli - parental control apps - that help kids grow - doing this alone. I am also doing some brainstorming with Manan. The next 2 weeks are an experiment between Priyanshu and me to see if he can act like a co-founder, if he can push the paddle on GTM. If I need any help, that's where he can help. Otherwise, I would do it alone anyway. </p>
 <p>I have done a lot of builds, a lot of small, nice builds. I initially thought of jumping on big ideas a little later, but things are flowing in; I might have to slow down before locking in, right now going with the flow. </p>
