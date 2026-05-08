@@ -3,7 +3,7 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2026-04-12T16:26:59+05:30</updated>
+    <updated>2026-05-06T22:07:16+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://www.thebstar.com/blogs/media/posts/60/Screenshot-2026-04-12-at-4.25.25-PM.png" medium="image" />
 
         <updated>2026-04-11T15:44:52+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/60/Screenshot-2026-04-12-at-4.25.25-PM.png" alt="" />
                     Who writes this stuff? Asked one of my readers: me, me ME. I write this stuff. Writing is a way to meditate; it is a way to capture my feelings. And sometimes, expressing my feelings, and for sure, sometimes understanding them. I have been asked&hellip;
@@ -56,7 +56,7 @@
         <media:content url="https://www.thebstar.com/blogs/media/posts/59/Screenshot-2026-03-25-at-6.39.24-AM.png" medium="image" />
 
         <updated>2026-03-25T06:38:09+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/59/Screenshot-2026-03-25-at-6.39.24-AM.png" alt="" />
                     Doesn't matter when I sleep, I want to be waking up by 5:30 am in the morning. A day in a week, I get tempted not to sleep. To build, to do something, to have those 8 hours for myself. Recently, I have been trying&hellip;
@@ -86,7 +86,7 @@
             <category term="life"/>
 
         <updated>2026-03-02T08:04:15+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/57/Screenshot-2026-02-05-at-9.21.24-AM.png" alt="Illustrative image" />
                     My phone rings... Hello, happy birthday - Khushi (sister-in-law wishes me). I thank her, and we talk about a few things in life, and she follows up - How does it feel to be 30? Honestly, not very different, because I have been mentally thinking&hellip;
@@ -106,7 +106,7 @@
         </content>
     </entry>
     <entry>
-        <title>The experiment</title>
+        <title>The experiment (Archived)</title>
         <author>
             <name>Bikram Sutar</name>
         </author>
@@ -114,9 +114,9 @@
         <id>https://www.thebstar.com/blogs/the-experiment.html</id>
 
         <updated>2026-02-23T09:00:28+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
-                    I am going to run a few experiments for the next 2 months. I have a hypothesis This is the greatest time to build (fact), the software building complexity and cost both have gone down drastically (fact), this means small lean teams are possible, and&hellip;
+                    This is 19th April, and I want to end the bootstrapping mindset. I am thinking big scale and thinking VC funding. I have numen.team. I am in the middle of onboarding two accounts. It should be fun. I am going to run a few experiments&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -139,20 +139,22 @@
 </ul>
 </div>
 <p> </p>
+<p>This is 19th April, and I want to end the bootstrapping mindset. I am thinking big scale and thinking VC funding. I have numen.team. I am in the middle of onboarding two accounts. It should be fun.</p>
+<p> </p>
 <p>I am going to run a few experiments for the next 2 months. I have a hypothesis</p>
 <blockquote>
-<p>This is the greatest time to build (fact), the software building complexity and cost both have gone down drastically (fact), this means small lean teams are possible, and there are enough revenue-generating, profitable b2c, b2b opportunities that can be executed by one person. In the current world, there can be more bootstrapped companies than ever.</p>
+<p>This is the greatest time to build (fact). Software-building complexity and cost have both gone down drastically (fact). This means small, lean teams are possible, and there are enough revenue-generating, profitable b2c and b2b opportunities that can be executed by one person. In today's world, there are more bootstrapped companies than ever.</p>
 </blockquote>
 <p> </p>
 <h3 id="mcetoc_1ji484iqhiv">Resources</h3>
 <p>I have a budget of 15L. 5L is the backup for finding out a VC-backed company's traction if bootstraping doesn't work. 6L is my budget for staying and accommodation for the next 12 months with zero income. I have 4 lakhs at my disposal to run bootstrap experiments.</p>
 <p>I have 2 months to pick signals, 2 months to double down, and have clarity if this path is going to work.</p>
 <p><strong>April 30th is the checkpoint for deciding where and whether I double down.</strong></p>
-<p><span style="text-decoration: line-through;"><strong>June 30th is the deadline for bootstraping. </strong></span></p>
-<p>It is April 1st and I have started thinking more VC, I need to see signals before I can commit. But if I see signals it is going to be huge and VC.</p>
+<p><span style="text-decoration: line-through;"><strong>June 30th is the deadline for bootstrapping. </strong></span></p>
+<p>It is April 1st, and I have started thinking more about VC. I need to see signals before I can commit. But if I see signals, it is going to be huge and VC.</p>
 <h3 id="mcetoc_1ji484iqhj0">Strategy</h3>
 <p>Build useful things, figure out useful things by talking to people, releasing, and distributing. Show the value quickly to the user, and get them to pay as soon as possible. I can't give unlimited freemium, or I will go broke 🤐</p>
-<p>I am going to focus mostly on B2C niche apps and ideas. On the side, I will also try to find a big B2B idea. Talk to people - cofounders, vcs, early employees - to find the big idea. </p>
+<p>I am going to focus mostly on B2C niche apps and ideas. On the side, I will also try to find a big B2B idea. Talk to people - cofounders, VCs, early employees - to find the big idea. </p>
 <h3 id="mcetoc_1ji484iqhj1">Plan</h3>
 <p>The plan is to run several independent experiments in b2c initially. Work on 3 things in parallel</p>
 <ol>
@@ -180,7 +182,7 @@
 <li>Use Claude extensively at work, and figure out whether to buy a cursor or Claude for personal purchase on Sunday. I can always have access to others. - Got cursor &amp; usage-based setup for Claude. </li>
 <li>Settle in - ✅, just a few rituals to be added. </li>
 <li>Set up task/project tracking - linear. ✅ Did this, not using much, maybe would be needed later. </li>
-<li>Cleanup and set up my personal calendar - use a new email id? - Cleaned up calender no new email yet. Wasn't needed. ❎</li>
+<li>Cleanup and set up my personal calendar - use a new email id? - Cleaned up calendar, no new email yet. Wasn't needed. ❎</li>
 <li>Name the experiment 😅 - Overthinker, I don't think it is needed right now ❎</li>
 </ul>
 <p><strong>Outcome</strong></p>
@@ -192,7 +194,7 @@
 <li>Matrum POC. ✅</li>
 <li>Get iPad note taker ready to release - I don't have a lot of expectations from this, but it is in the pipeline and closest to release. 
 <ul>
-<li>If apple dev account isn't unblocked, release the prayers app on playstore - again, need developer account approval. </li>
+<li>If the Apple dev account isn't unblocked, release the prayers app on the Play Store - again, need developer account approval. </li>
 <li>Didn't do a lot of work as my Apple dev account was blocked 🚫</li>
 </ul>
 </li>
@@ -237,9 +239,9 @@
 <p><strong>Outcome</strong></p>
 <ul>
 <li>Kidli research, thinking of a new age parenting apps</li>
-<li>Found print on demand companies, but not sure if I am gonna run that</li>
+<li>Found print-on-demand companies, but not sure if I am gonna run that</li>
 <li>Experimented with video/content generation tools</li>
-<li>Landed on AI powered social networking platform idea. Experimenting on that</li>
+<li>Landed on an AI-powered social networking platform idea. Experimenting with that</li>
 </ul>
 <h4 id="mcetoc_1ji484iqhj5">Week 4 - March 3rd week</h4>
 <ul>
@@ -251,35 +253,36 @@
 </ul>
 <p><strong>The plan needs an update</strong></p>
 <ul>
-<li>Made the AI powered social network live - <a href="https://gethoply.com/">https://gethoply.com/</a>
+<li>Made the AI-powered social network live - <a href="https://gethoply.com/">https://gethoply.com/</a>
 <ul>
-<li>Doing this with Priyanshu right now as an experiment for next 2 weeks. If he can help with GTM - we make a big company and he can be ceo full time. If not I walk out. if I have to fight on GTM, and have to do major tech why would I not do this alone. </li>
+<li>Doing this with Priyanshu right now as an experiment for the next 2 weeks. If he can help with GTM, we can make a big company, and he can be ceo full time. If not, I walk out. If I have to fight on GTM and have to do major tech, why would I not do this alone? </li>
 </ul>
 </li>
 <li>I shall double down on the parental control app. Test on a live phone &amp; release next week</li>
 </ul>
 <h4 id="mcetoc_1jjc00qv53">Week 5 - March 4th week</h4>
 <p><strong>1st of April</strong></p>
-<p>End of the month 1of running the experiment. I have a lot of learnings. I built a lot of tech. Still distribution failed. And this is going to be my biggest factor of failure if I fail. I must crack distribution. I have built following apps in the month, but didn't release or put the efforts into the release</p>
+<p>End of the month 1of running the experiment. I have a lot of learning. I built a lot of tech. Still, the distribution failed. And this is going to be my biggest factor of failure if I fail. I must crack distribution. I have built the following apps in the month, but didn't release or put the effort into the release</p>
 <ul>
 <li>Hindu prayers</li>
-<li>Ipad note taker</li>
-<li>6d/hoply - An AI powered social network of people</li>
-<li>A video generation tool, that can generate videos given a script</li>
+<li>iPad note taker</li>
+<li>6d/hoply - An AI-powered social network of people</li>
+<li>A video generation tool that can generate videos given a script</li>
 <li>A landing page builder</li>
 <li>AI sales demo agent</li>
-<li><a href="https://www.numen.team/" target="_blank" rel="noopener noreferrer">Numen.team</a> - A Product and Engineering inteligence layer. </li>
+<li><a href="https://www.numen.team/" target="_blank" rel="noopener noreferrer">Numen.team</a> - A Product and Engineering intelligence layer. </li>
 <li>I have also built - <a href="https://hamigorkhali.com/">https://hamigorkhali.com/</a></li>
 <li>And a new age Parental control software</li>
-<li>I have become a really pro user of claude, finishing credits almost every session</li>
-<li>I have went to Sales event, engineering events, founders meet.</li>
+<li>I have become a really pro user of Claude, finishing credits almost every session</li>
+<li>I have gone to sales events, engineering events, and founders' meetups.</li>
 </ul>
-<p>This is a long list, and a long list for 5 weeks. Surely a few things have changed. I have started thinking more VC ideas now. Maybe that is one of the reasons I haven't done many releases. But even then being able to give access, solving one problem - always unlocks conversations. Neverthless, in terms of building, This is the kind of execution that I mean when I say speed !⚡ Let's hit the April running 🚀</p>
+<p>This is a long list, and a long list for 5 weeks. Surely a few things have changed. I have started thinking more about VC ideas now. Maybe that is one of the reasons I haven't done many releases. But even then, being able to give access, solving one problem, always unlocks conversations. Nevertheless, in terms of building, this is the kind of execution that I mean when I say speed !⚡ Let's hit the April running 🚀</p>
 <h3 id="mcetoc_1jk79enc22">April - Another iteration</h3>
-<p><strong>2nd week of March </strong></p>
-<p>This month I shall focus on getting actual signups, users, usage. I feel I have built enough in March. Learnt and iterated enough to take things to the next phase. I will define exactly how it will look like by 5th week. </p>
+<p><strong>2nd week of March (Planning early)</strong></p>
+<p>This month, I shall focus on getting actual signups, users, and usage. I feel I have built enough in March. Learnt and iterated enough to take things to the next phase. I will define exactly how it will look by the 5th week. </p>
 <p><strong>1st of April</strong></p>
 <p>This is probably going to be the most important iteration of the experiment. I need to speed run this. I need to get real users and strive to get some real usage this month. This is when I start talking about actual business metrics. <a href="https://learn.deeplearning.ai/courses/build-and-train-an-llm-with-jax/lesson/gy364z/introduction" target="_blank" rel="noopener noreferrer">I want to build an LLM too this month</a>. </p>
+<p>This is 19th April, and I want to end the bootstrapping mindset. I am thinking big scale and thinking VC funding. I have numen.team. I am in the middle of onboarding two accounts. It should be fun.</p>
 <p> </p>
 <p> </p>
             ]]>
@@ -296,7 +299,7 @@
             <category term="life"/>
 
         <updated>2026-02-05T09:47:46+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/55/Screenshot-2026-02-05-at-9.21.24-AM.png" alt="Letting go" />
                     This has been a realization lately: every good thing needs to end. It isn't life-changing. Everyone knows this. And some practice this, some can let things go on need basis. I am talking about doing this more actively. Doing a regular check-in to give myself&hellip;
@@ -334,7 +337,7 @@
             <category term="life"/>
 
         <updated>2026-01-27T23:49:55+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/54/Screenshot-2026-01-27-at-11.43.59-PM.png" alt="" />
                     As the sun goes to deep sleep and a full moon hits its peak, as everyone goes to bed, and when I am sleepy, it is midnight, my Spotify hits it right. Just right on the spot. It would be very rare for me to&hellip;
@@ -370,7 +373,7 @@
             <category term="life"/>
 
         <updated>2026-01-05T21:35:04+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/53/2026.jpg" alt="2026 shown as a road. It is an empty road in middle of nowhere" />
                     Hello 👋 2026 is the election year in Assam. Political parties/candidates declaring manifestos, something we have grown accustomed to. It is a worldwide practice. Often, they fail to accomplish what they state. It is ambitious. All I can say, assuming true intentions. I had a&hellip;
@@ -386,6 +389,9 @@
 <li><a href="#mcetoc_1je7e171hbr">Time for the actual goals 🛎</a></li>
 <li><a href="#mcetoc_1je7e171hbt">Updates 🔊</a>
 <ul>
+<li><a href="#mcetoc_1jnulf0knd">Week 17th to 19th (6th May)</a></li>
+<li><a href="#mcetoc_1jmhnmcju11">Week 15th &amp;16th (19th April)</a></li>
+<li><a href="#mcetoc_1jmhnmcju12">Week 13 &amp; 14 (1st of April)</a></li>
 <li><a href="#mcetoc_1jjv72i41o">Week 12 (11th March)</a></li>
 <li><a href="#mcetoc_1jjc0arbp7">Week 11 (10th March) 🌱</a></li>
 <li><a href="#mcetoc_1jim4p0ln33">Week 10 (2nd March)</a></li>
@@ -477,7 +483,16 @@
 <p class="msg msg--info">⚠️ Personal space alert. Updates for each week. Raw access. Don't share, don't quote without running it by me, please 🙏</p>
 <p>As usual, this Article will have the goals and progress updates each week.</p>
 <p>Here we go. 🚀</p>
-<h4>Week 13 &amp; 14 (1st of April)</h4>
+<h4 id="mcetoc_1jnulf0knd">Week 17th to 19th (6th May)</h4>
+<p>Came back to bangalore on 27th, it was a night flight. Landed on 28th morning. Did some work in the first half, but body was feeling uneasy. Contracted viral infection from somewhere. Then I got ill. Took me 3 days to fully recover. We had been to canteen, not sure from where I got the virus. Khushi got ill, then ama &amp; pita too. They are still recovering. Hence, It must have started there. </p>
+<p>Building had kind of stopped while I was at home. Was visiting friends, family &amp; met Sarmistha's thuli ma. Pooja di's Mom, Binod mama and Sanima. All wonderful people. I can see why Sarmistha is pulled and attached to them. Back to present, I am seeing Sarmistha a bit lighter and a bit happier, it feels good. She also did her first 5K, isn't this great! She is a gem. </p>
+<p>I am back building from this week. I got into Solo founder top 5% applicants. Had a call with Julian - the man behind solo founder. I am impressive, I just need data - customers to back it up. Learning the real trades of starting up these days. Building is easy, distribution is hard. This was my thesis, and it is true, I need to crack this. I also had a great call with a guy building in RIA space, he has been in the business for a long long time. Early role with him might be interesting.</p>
+<p>This week &amp; next gonna focus more on building in public. And my x account be my progress card. See you next week. Oh, started hitting gym from today.</p>
+<h4 id="mcetoc_1jmhnmcju11">Week 15th &amp;16th (19th April)</h4>
+<p>Two continuous late updates. I shall be coming here regularly. I feel like I am doing set things and not coming here often. Even when I am on a set path, this is the best place for accountability. In last two weeks I have gone more deeper in numen.team. Right now, I am figuring the infra for it on prod before onboarding another Bitsave &amp; Spaces. I shall see the value with them ASAP and then start having converstations with others.</p>
+<p>In life, I have flown back to home. I flew back, because I wanted to there with Sarmistha - her father is battling cancer and she was running everything by herself. I wanted to be there. I stayed in Guwahati for two days. Right now I am at home. At home, went to play a game. As I wanted to after a long time. I shall get back to focus zone from today. Also for last 2 days we have been sleeping late. I need to make concious efforts to not let this happen. I don't feel good Sarmistha waking up late. She feels guilt. My parents have some uneasiness with her hair, so would a lot of people have - till they don't know her. Everything else is sorted. </p>
+<p>Mom is not 100%. She is having a cough. </p>
+<h4 id="mcetoc_1jmhnmcju12">Week 13 &amp; 14 (1st of April)</h4>
 <p>A lot has happened. I didn't realized, I missed writting updates for week 13th. I have been heads down building. Just building like its 90s. A builder in a hoodie in a dark garage. Well, not exactly. But very close. But it isn't 90s. We are living in a world that runs on a turbo mode. Everything moves fast. Insanely fast. Even people who had figured out the game, are trying to understand the game again, from ground up. I have built a lot of software. I have written a lot of code with AI. I pay around 15k montly on AI fee. And I only see it growing. </p>
 <p>I have built many things. Also ran my fastest 5k on strava on 22nd March. Bhoje da called me, we chatted and decided to go for a run. He was already running a 21 days running challenge. I ran with him. completed in 22.36 min. He has a colleage, they are doing a 21 days fitness challenge to physically get better. It is fun, inspiring to see them.</p>
 <p><strong>Swiming</strong></p>
@@ -571,7 +586,7 @@
             <category term="life"/>
 
         <updated>2025-12-30T10:14:51+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/52/Screenshot-2026-01-05-at-10.41.01-PM.png" alt="Boxed" />
                     Let's do the yearly review. Please put a review of the year shamelessly if you are going to plan the next year. And if you want the plan to work. It is an accountability mechanism. When you have a decent checklist ticked, it is a&hellip;
@@ -688,7 +703,7 @@
             <category term="fokat"/>
 
         <updated>2025-12-25T00:33:06+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/51/Screenshot-2026-01-05-at-9.44.22-PM.png" alt="Thinking socrates" />
                     It is an absolutely nonsensical, crazy piece. Read at your own risk. I am just journaling. I have mentioned many times to people that I manifest good energy for myself. It is very true. I feel I have manifested many things, many moments. All good.
@@ -717,7 +732,7 @@
         <media:content url="https://www.thebstar.com/blogs/media/posts/50/Screenshot-2026-01-27-at-11.56.08-PM.png" medium="image" />
 
         <updated>2025-12-25T00:11:47+05:30</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://www.thebstar.com/blogs/media/posts/50/Screenshot-2026-01-27-at-11.56.08-PM.png" alt="Dice rolling" />
                     I have evolved a lot. It feels like a good checkpoint to explain the concept of nothingness. It is my own opinion of nothingness. It is maybe my ideal model of nothingness. It doesn't mean I am capable of practicing everything I am going to&hellip;
