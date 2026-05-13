@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.thebstar.com/blogs/the-recency-bias.html",
+            "url": "https://www.thebstar.com/blogs/the-recency-bias.html",
+            "title": "The Recency Bias",
+            "summary": "We are all biased towards our recent experiences. Recent experiences become so disproportionately important that everything old context is undervalued. This is how our brain works. This is how orgs even function. This happens with events, experiences, information, emotions, whatnot. Our brain doesn't replay old&hellip;",
+            "content_html": "<p>We are all biased towards our recent experiences. Recent experiences become so disproportionately important that everything old context is undervalued. This is how our brain works. This is how orgs even function. This happens with events, experiences, information, emotions, whatnot. </p>\n<p>Our brain doesn't replay old experiences. It reconstructs them. And that reconstruction is instructed through the current state of our brain. The current state of our brain might be different from what it was when we were in the middle of the experience; the brain is reconstructing. This helps us move past bad experiences. But it also stops us from seeing the brighter side. If one experiences 3 nights of sleeplessness suddenly, it becomes hard to visualise how it felt to sleep peacefully, what it meant, and when was the last time - already feels like a decade. This is the recency bias. </p>\n<p>If we have a fear of something, that adds more weight to how our memories are reconstructed. If we have positivity towards something again, it adds weight to how memories are reconstructed. Our memories actively shape us. They had shaped us in the past, in the moment. They would still be shaping us again, but differently, depending on our reconstruction. </p>\n<p>I am no different. I'm also human. I have probably reconstructed so much of my experiences to be on the positive side, on the brighter side. Helps me to see the good side. What if they weren't true? I don't care much. What if I am doing the same in the present? I do care about this. </p>",
+            "image": "https://www.thebstar.com/blogs/media/posts/61/recency-bias.png",
+            "author": {
+                "name": "Bikram Sutar"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-13T08:49:35+05:30",
+            "date_modified": "2026-05-13T08:50:16+05:30"
+        },
+        {
             "id": "https://www.thebstar.com/blogs/how-to-feel-deeply-loved.html",
             "url": "https://www.thebstar.com/blogs/how-to-feel-deeply-loved.html",
             "title": "Love triangle",
@@ -148,21 +163,6 @@
             ],
             "date_published": "2025-12-25T00:33:06+05:30",
             "date_modified": "2026-01-05T21:51:14+05:30"
-        },
-        {
-            "id": "https://www.thebstar.com/blogs/i-speak-of-probabilities.html",
-            "url": "https://www.thebstar.com/blogs/i-speak-of-probabilities.html",
-            "title": "I speak of probabilities!",
-            "summary": "I have evolved a lot. It feels like a good checkpoint to explain the concept of nothingness. It is my own opinion of nothingness. It is maybe my ideal model of nothingness. It doesn't mean I am capable of practicing everything I am going to&hellip;",
-            "content_html": "<p>I have evolved a lot. It feels like a good checkpoint to explain the concept of nothingness. It is my own opinion of nothingness. It is maybe my ideal model of nothingness. It doesn't mean I am capable of practicing everything I am going to say here. </p>\n<p><strong>Life probably has no meaning</strong></p>\n<p>It is hard to imagine this, life running without meaning. We are the lone conscious species in the universe that we know of. Feels like an extremely unlikely random event. How can we exist without meaning? </p>\n<p><strong>I speak of probabilities</strong></p>\n<p>If I recall, in 2020, I started realizing, I don't control everything. Even for the simplest of actions/explanations, it is impossible to be 100% certain. I would like to argue, I can be close to 100% certain. And from my limited pov, I can be closer to 100%. And I have, for simplicity, consciously used certainty instead of confusing people. How can I predict certainty when I am uncertainly uncertain?</p>\n<p><strong>Life probably has a meaning</strong></p>\n<p>Contrary to what I said earlier, maybe life has a meaning.  Each of our lives. This is a much easier and natural way of living. Maybe more harmony in this. Maybe it doesn't require extreme detachment to still live peacefully, and keep making progress where we don't know the road. </p>\n<p><strong>The meaning of life</strong></p>\n<p>Why do you need the meaning of life? What is the most atomic question we are trying to answer? Who am I? Before asking why am I? Maybe it is easy to answer who I am. Maybe both questions/answers supplement/complete each other. The most important thing here is \"I\". </p>\n<p><strong>\"I\" is the consciousness</strong></p>\n<p>Dig deeper into the eye. Connect with it. Embrace it. \"I\" is you; it is within. Most of us operate from a very shallow surface of \"I\". We only know the tip of the iceberg. Once we have enough activated consciousness, maybe our answer to life will start appearing. Maybe we will learn to ask the right questions. </p>\n<p><strong>Why does it matter?</strong></p>\n<p>Does it really matter if life has a meaning? If life is so random, my occurrence in life is unfathomably random, and so my consciousness, and everything that matters. Maybe finding these atomic units is gonna connect to the big picture. </p>\n<p>There are two possibilities - life is planned, or life is random. If life is intended (which we ignored earlier), anyway, everything matters. Focusing on consciousness is still gonna lead us individually. If it is random, everything ends in nothingness, most likely. </p>\n<p>Be because you want to, be because you must. Because you can't be anything else. </p>",
-            "image": "https://www.thebstar.com/blogs/media/posts/50/Screenshot-2026-01-27-at-11.56.08-PM.png",
-            "author": {
-                "name": "Bikram Sutar"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-12-25T00:11:47+05:30",
-            "date_modified": "2026-01-27T23:57:34+05:30"
         }
     ]
 }
