@@ -3,12 +3,42 @@
     <title>Thebstar blogs</title>
     <link href="https://www.thebstar.com/blogs/feed.xml" rel="self" />
     <link href="https://www.thebstar.com/blogs" />
-    <updated>2026-05-17T01:00:42+05:30</updated>
+    <updated>2026-06-19T19:30:09+05:30</updated>
     <author>
         <name>Bikram Sutar</name>
     </author>
     <id>https://www.thebstar.com/blogs</id>
 
+    <entry>
+        <title>The Roundtrip</title>
+        <author>
+            <name>Bikram Sutar</name>
+        </author>
+        <link href="https://www.thebstar.com/blogs/the-roundtrip.html"/>
+        <id>https://www.thebstar.com/blogs/the-roundtrip.html</id>
+
+        <updated>2026-06-12T06:10:46+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    The God's favourite child Ask me how it feels to be God's favourite child. I can answer. I have been one. Probably I have been the one. 5 AM, Friday 12th June, I am travelling back home from Bangalore - and guess what - I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>The God's favourite child</h3>
+<p>Ask me how it feels to be God's favourite child. I can answer. I have been one. Probably I have been the one. 5 AM, Friday 12th June, I am travelling back home from Bangalore - and guess what - I get another window seat randomly without paying. How many times does it happen? There are 6 seats and 2 windows. 1:3 chances. I am surely doing better. This is the 4th consecutive window seat. </p>
+<p>I had decided to be in Bangalore in Jan. Came for Shubhankar's wedding, did a round trip of Rajasthan, Delhi, and settled in Aryan Sarva's room. We have been colleagues since the housewares days. He was interning, and we shared a room for 30 days in a co-living place. I have stayed in his flat multiple times since then. Mostly when I am in Bangalore, and he is out in his hometown, Jaipur. Almost everyone from the Houseware team left LaunchDarkly; Sarva left to prepare for his CA exams. I left to start up or kick myself on my back, to get uncomfortable &amp; explode into the next phase. Sarva left for Jaipur, and I lent his room. Good deal, win-win. Sidhant Gupta, another colleague, also lives in the house, which is a 3BHK. 2 people. Sidhant, make sure to take care of actually running the house. I didn't have to think about anything. They hosted me, hosted me well. I am really grateful.</p>
+<p>I am grateful for the Houseware episode as well, how many times in onces career, a colleague turns friend, only a few times right. On the other hand, it won't be wrong to say that I am good at connecting with people on a personal level. Maybe I was always decent. Maybe I wasn't. At least, at the workplace, I wasn't. 2019, Radicali days, I remember Karthiki's last day, she mentioned that she was scared of me. I was all about work back then, so intense. Worked with Shubhankar to ease in. I had a counter for a few months on no of times people disagreed with me. That was a proxy for how easy/comfortable people were in front of me. That helped a bit. Opening up, failing in public, talking about life, having interests, and curiosity helped even more. Curiosity helps everywhere. So much so that I have been letting it lead me. It has been leading me well so far. </p>
+<h3>Driven by curiosity</h3>
+<p>I had my last day at LaunchDarkly in April. I wanted to start up. I still want to. Maybe I shall reframe. I want to build a lot of value &amp; impact in a short time. I want to iterate fast &amp; be optimising for winning. There will be many short term losses, but eventually there should be a great net positive. I have spent exactly 2 months, making no progress towards that goal. Maybe the goal needs to be redefined, needs to be made more actionable, needs to be more measurable. Not like I haven't done anything in the last 2 months. I have run 2 cofounder trials - one very short one with Priyanshu - lasted just a few days. One with Reshma (sutros.care). Both didn't workout. I have done a lot of building. Been somewhat consistent in the gym. Been in Bangalore mostly. Attended a few events, met a few people. Did some problem discoveries -  talked to ~25 PMs for discovery. Did a small Poc for matrum - could have done better, but got pulled into too many things to be consistent. Travelled home in between. I am doing a retro because it's a time to do a wrap-up. Starting a completely new cycle. Heading back to home, feels like a roundtrip, again.</p>
+<h3>The Roundtrip</h3>
+<p>I came to Bangalore to startup. I have't, I still want to. But I am heading back home. Doesn't make a lot of sense, ask me on any random day I won't lie. Bangalore is the best place in India to build anything in tech. Why am I going back? Honestly, not giving me the best chances. But. but, I have a plan. I always had a plan. It was the first plan. I deviated from the plan in the past 2 months. I am back on it again. </p>
+<p>Here is my current status - I am building a self learning website loop for kite.ai. I got connected to them through Divyansh. I have hailed him many times, he is just awesome. Kite is a new product by Appsmith. They are a big team, series B,100+ people in engineering. Fact that I am going to be building this with CTO in this big of a team, a product that I have been interested in always, gives me chills. I have to deliver. Yes, I have a little bit of fear, fear of failure, maybe for good. It is going to be the most complex engineering build I have done so far. I am excited too. It is going to last close to 2 months. 45 working days. Decent money, have gotten Nipun onboard, if required will get more people. I want to deliver, I don't care about money at this point. Each penny is bonus. I am planning to give around 6 hours a day on this. And spend 4 hours daily on my startup playbook. </p>
+<p>Here is how my startup playbook would look - I want to build a lab. An apps/product lab. I have to sell something on internet - something that can be scaled with more capital. Most of these product/apps are going to be consumer, but don't be surprised if I build something B2B. I am going to open source a few things. I had just started to package my builds before my sutros trial run. I am going to go back to the same approach. Will take it even farther. Will be doing releases. I have some wild ideas, let's see how it goes. Going to be fun ✊</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Recency Bias</title>
         <author>
@@ -510,6 +540,10 @@
 <p class="msg msg--info">⚠️ Personal space alert. Updates for each week. Raw access. Don't share, don't quote without running it by me, please 🙏</p>
 <p>As usual, this Article will have the goals and progress updates each week.</p>
 <p>Here we go. 🚀</p>
+<h4>Week 25th (19th June)</h4>
+<p>Oh a lot has happened. Baba (Sarmistha's dad) is no more. He passed away on 15th of June. I had returned home on 12th. Out of no where I was about to get married. Sarmistha's aunt (Thulima) is almost in last stage of her life. She is fighting a hard battle but she is so determined, very strong mentally. Must commend her will power. She used to the run their house, she still does from the bed. She wanted to see Sarmistha get settled, that was her wish. 29th was supposed to be the date. But destiny had other plans. I and Sarmistha were on phone on 12th, she cuts the phone, I waited for a few sec sensed something I don't know, called her again, she didn't pickup. Pooja di calls me mentioned Sarmistha was crying and Maa as well. Maa (Sarmistha's mom) was in Guwahati with Baba. He used the washroom, and got a stroke. He used to use washroom by himself. It was completely unexpected, He was recovering, he had a good sleep the night before. But he struggled after washroom. Could barely stand. I can't imagine how hard it must have been for Maa. Wish she didn't have to face it alone. In Nepali community family must grief for 13 days. If wedding was done, I could have stayed there, I wanted to be there in tough times, with Sarmistha. Now, I am trying my best to be the whatever support I can be from here. And a few occasional visit. </p>
+<p>Death is the ultimate truth. Yeah, it is hard to accept. It is hard to accept when someone passes young. But truth doesn't need our validation. Must be so many emotions rolling up for Sarmistha, so many things happening at the same time. <a href="https://www.thebstar.com/blogs/random-monologue-on-manifestation.html">Hope things will be better soon</a>. She is too volunerable on one side to be handling all these. </p>
+<p>On professional side, I was doing a co-founder trial with Reshma - on Sutros - a healthcare startup. I had decided to stop. Last week, as I travelled back from Bangalore those were my last days. I wasn't feeling 100%, I don't work like that. Absolutely not when risks are so high. I have taken up a consulting job with Appsmith - reporitng to Co-founders. It is a priviledge. I got this because of Divyansh, I don't think I would have gotten this otherwise. I have to make it a success. I will be back experimenting from next next week again. Not jumping on any co-founder train unless something really pulls me in. </p>
 <h4 id="mcetoc_1jofjbukaf">Week 20th (13th May)</h4>
 <p>Early morning, 7:52am. Shall I start with the things going well? Certainly. Have been talking to <a href="https://www.linkedin.com/in/reshmamallya/" target="_blank" rel="noopener noreferrer">Reshma</a>, She is a marketer. Has great access in pharma. She is building sutros with her brother. I don't know the split between them yet. I think we connect on values. The care, emphathy, impact. Both emotional and social ethics. I need little bit more clarity on their commitment. I see Reshma is fulltime. I need to know her energy. She has the calmness, but can she do the rush hours, there are signals. Lot of people associate calmness with not having the that youthful energy, and when people are on the other side of the age spectrum it is easy to think so. But calmness creates focus, experience sets direction - both of these combines can create velocity. Youthfulness is still important. You can get old, it is natural. Just don't let that child die. Important for me to find that. Find how they operate under rush. How long are they for in the game. If both of them are fulltime, I don't think Ashwin - the other co-founder is. I need to know and have conviction on the split. </p>
 <p>As I am writting this, the nerves are settling. I can't emphasise how medidative it is for me to selftalk. Writing is a way to do the same. Indeed it is the best way for me. I woke up early today. And wrote a bunch of things on a whatsapp group. It is called Startup Journal. It is more of a log of my journey. I will share those notes later on the blog. I don't even know what I want to share. It is like a mestry box, a thread tangled so badly. I can't help. Yeah, I am trained in a way that I can unsee anything and everything. And put my focus back on whatever I want. For the same reason I am rarley disturbed. Being honest, I don't want to practice this with people I care. Read me right, I like having the calmness, who doesn't. And I always have tools to unsee or set aside anything to keep myself calm. This is supposed to be practiced in Geeta. The great detachment. But it feels just unfair to pratice this with loved ones. I want to be part of those emotions and ride to waves of fluctuations. I wish there is stability, till there ins't I want to be listening. I want to be the beach where waves settle. Maybe I don't know yet how to be there. Maybe I yet don't know the demand of a relationship and what being there means. I want to improve. I really don't know to be honest. But I want to be getting better and doing better. </p>
@@ -719,36 +753,6 @@
 <p><a href="https://youtu.be/hmgt6FLy9aI?si=DHDxrg2SHoiHusHR">Made some videos</a>. </p>
 <p>26th is my birthday, and I have gotten a jersey that says 26 😅. So it is gonna be a fun year next. Have fun 🎉</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Random monologue on manifestation</title>
-        <author>
-            <name>Bikram Sutar</name>
-        </author>
-        <link href="https://www.thebstar.com/blogs/random-monologue-on-manifestation.html"/>
-        <id>https://www.thebstar.com/blogs/random-monologue-on-manifestation.html</id>
-        <media:content url="https://www.thebstar.com/blogs/media/posts/51/Screenshot-2026-01-05-at-9.44.22-PM.png" medium="image" />
-            <category term="fokat"/>
-
-        <updated>2025-12-25T00:33:06+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.thebstar.com/blogs/media/posts/51/Screenshot-2026-01-05-at-9.44.22-PM.png" alt="Thinking socrates" />
-                    It is an absolutely nonsensical, crazy piece. Read at your own risk. I am just journaling. I have mentioned many times to people that I manifest good energy for myself. It is very true. I feel I have manifested many things, many moments. All good.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.thebstar.com/blogs/media/posts/51/Screenshot-2026-01-05-at-9.44.22-PM.png" class="type:primaryImage" alt="Thinking socrates" /></p>
-                <p>It is an absolutely nonsensical, crazy piece. Read at your own risk. I am just journaling. </p>
-<p>I have mentioned many times to people that I manifest good energy for myself. It is very true. I feel I have manifested many things, many moments. All good. Mostly good. The 23rd of December 2025 sparked a different thought. Capturing it here, in case I come to this again. </p>
-<p>I saw an accident while returning from cricket practice. I helped the victim to the hospital. He is fine now. If I do any manifestation, I manifest good things, I manifest being good, being useful, I manifest being resourceful. I manifest being helpful. Hear me out, if I am manifesting my reality, is there a possibility I am manifesting these scenes subconsciously, so I can be helpful?</p>
-<p>I prefer enablement over on-demand help. But even then, there is a feeling of being useful in being helpful. This is more reactive, low-hanging than enablement. Success in helping is more controlled, more defined. Many factors go out of hand in enablement. </p>
-<p>Sounds like borderline craziness. But let's not think I will be helpful. I shall still be open to help. Not seeking to help. Would this change no of scenes I see? If it doesn't, would it be because I will manifest less, or would it be because my body will somehow give it away?</p>
-<p>Cray! Good that I don't do this actively, all happens unconsciously, and I just get a spark for a second. Usually, they are useful. Sometimes they are as crazy as this. Again, good that nothing is active. Almost like I can give instructions to unconsciousness and it executes. So I can be somewhat sane actively. </p>
-<p>Time to hit the bed. Exciting days. I am in a PTO and doing fun stuff. </p>
             ]]>
         </content>
     </entry>
